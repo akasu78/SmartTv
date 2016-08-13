@@ -1,21 +1,93 @@
-#EXTINF:-1,????? PORTUGAL ?????
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2165.ts
-#EXTINF:-1,PT: Tvi 24
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2176.ts
-#EXTINF:-1,PT: TV Cine 4
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2181.ts
-#EXTINF:-1,PT: TV Cine 3
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2180.ts
-#EXTINF:-1,PT: TV Cine 2
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2179.ts
-#EXTINF:-1,PT: TV Cine 1
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2178.ts
+#EXTM3U
+
+
+
+Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se gostar Adquira o serviço pelo Operador.
+Editada a : 14-08-2016 ( esta a ser actualizada )
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://visionfour.com/images/iptv.jpg" , - IPTV SMARTV PORTUGUESA -
+#EXTBG:http://visionfour.com/images/iptv.jpg
+http://ssiptv.com:8899
+
+
+
+#EXTINF:0, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:0, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
+#EXTINF:0, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
+
+#EXTINF:0,  ECONOMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:0,  ECONOMICO TV
+http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
+#EXTINF:-1,Lisboa TV
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , ???Desporto???
+#EXTBG:http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
+http://ssiptv.com:8899
+
+
+
+
+#EXTINF:-1 channelId="1332" , Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , ???Musica???
+#EXTBG:http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png
+https://1.2.3.4.1000
+
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 channelId="1710" ,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 channelId="2177" ,M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , ???Lista de Teste???
+http://ssiptv.com:8899
+
+#EXTINF:-1,PT: RTP 2
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2167.ts
+#EXTINF:-1,PT: RTP 1
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2166.ts
+#EXTINF:-1,PT: RTP 3
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2168.ts
+#EXTINF:-1,PT: Sic
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2173.ts
 #EXTINF:-1,PT: Sic Noticias
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2174.ts
 #EXTINF:-1,PT: Sic Mulher
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2175.ts
-#EXTINF:-1,PT: Sic
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2173.ts
 #EXTINF:-1,PT: RTP Memoria
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2169.ts
 #EXTINF:-1,PT: RTP Madeira
@@ -24,12 +96,16 @@ http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2170.ts
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2171.ts
 #EXTINF:-1,PT: RTP Acores
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2172.ts
-#EXTINF:-1,PT: RTP 3
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2168.ts
-#EXTINF:-1,PT: RTP 2
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2167.ts
-#EXTINF:-1,PT: RTP 1
-http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2166.ts
+#EXTINF:-1,PT: Tvi 24
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2176.ts
+#EXTINF:-1,PT: TV Cine 1
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2178.ts
+#EXTINF:-1,PT: TV Cine 2
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2179.ts
+#EXTINF:-1,PT: TV Cine 3
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2180.ts
+#EXTINF:-1,PT: TV Cine 4
+http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2181.ts
 #EXTINF:-1,PT: Nickelodeon
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2198.ts
 #EXTINF:-1,PT: Nat Geo Wild
@@ -66,3 +142,61 @@ http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2187.ts
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2192.ts
 #EXTINF:-1,PT: AXN HD
 http://ksportiptv.com:1557/live/freeiptv12/QjBGfhMV1Z/2191.ts
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , ???Lista de Teste???
+http://ssiptv.com:8899
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="http://images.clipartlogo.com/files/ss/thumb/742/7427629/spain-flag-icon-with-official_small.jpg" , ESPAÑA
+http://04.02.2016
+
+
+#EXTINF:-1,La1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1,La2
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1,24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:-1,MEGA HD
+http://api.iptv.ink/pl.m3u8?ch=58315547
+#EXTINF:-1,LA RED EN VIVO HD
+http://api.iptv.ink/pl.m3u8?ch=14527508
+#EXTINF:-1,TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:-1,LA SEXTA HD
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:-1,ANTENA 3 HD
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:-1, channelId="-1" tvg-logo="http://sky1cast.com/img/tv-icons/tv_mas.jpg" , Tv +
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1, channelId="1678" , CuaTo
+http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
+#EXTINF:-1,Russia Today HD
+http://api.iptv.ink/pl.m3u8?ch=84555053
+
+
+
