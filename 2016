@@ -3,7 +3,7 @@
 
 
 Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se gostar Adquira o serviço pelo Operador.
-Editada a : 11 - 10 - 2016 ( esta a ser actualizada )
+Editada a : 13 - 10 - 2016 ( esta a ser actualizada )
 
 
 
@@ -52,6 +52,17 @@ http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/645.m3u8
 #EXTINF:0 type="stream" channelId="2864" , Benfica HD
 http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/17.m3u8
 
+#EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/249.ts
+#EXTINF:0 type="stream" channelId="1584" , SPORT TV 2
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/250.ts
+#EXTINF:0 type="stream" channelId="1585" , SPORT TV 3
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/251.ts
+#EXTINF:0 type="stream" channelId="1586" , SPORT TV 4
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/252.ts
+#EXTINF:0 type="stream" channelId="2862" , SPORT TV 5
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/253.ts
+
 
 #EXTINF:0 type="stream" tvg-logo="http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png" , "Musica"
 http://ssiptv.com:8899
@@ -91,3 +102,28 @@ http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/634.m3u8
 http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/644.m3u8
 #EXTINF:0 type="stream" channelId="324" , CBS REALITY
 http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/641.m3u8
+
+
+
+
+#EXTINF:0 type="stream" tvg-logo="https://pbs.twimg.com/profile_images/3000101448/da6b87f758ea18bcb15eabd5e69d5d15_400x400.jpeg" , "Só para Adultos"
+http://ssiptv.com:8899
+
+#EXTINF:-1,XXX1
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/343.ts
+#EXTINF:-1,XXX2
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/344.ts
+#EXTINF:-1,XXX 3
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/345.ts
+#EXTINF:-1,XXX 4
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/346.ts
+#EXTINF:-1,XXX 5
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/347.ts
+#EXTINF:-1,XXX 6
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/351.ts
+#EXTINF:-1,Pink Erotic
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/348.ts
+#EXTINF:-1,Pink Erotic 3
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/349.ts
+#EXTINF:-1,Pink Erotic 4
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/350.ts
