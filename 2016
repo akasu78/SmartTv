@@ -3,7 +3,7 @@
 
 
 Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se gostar Adquira o serviço pelo Operador.
-Editada a : 13 - 10 - 2016 ( esta a ser actualizada )
+Editada a : 14 - 10 - 2016 ( esta a ser actualizada )
 
 
 
@@ -14,11 +14,11 @@ http://ssiptv.com:8899
 
 
 #EXTINF:0 type="stream" channelId="2832" , RTP 1
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/633.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/633.m3u8
 #EXTINF:0 type="stream" channelId="2645" , SIC
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/21.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/21.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/9.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/9.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
@@ -30,13 +30,13 @@ http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2012/04/logotipoDE-150x150.jpg" , ECONOMICO TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://ocaolaranja.com/wp-content/uploads/2015/10/cm-tv-300x171.jpg" , CMTV
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/635.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/635.m3u8
 #EXTINF:0 type="stream" channelId="2649" , TVI REALITY
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/638.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/638.m3u8
 #EXTINF:0 type="stream" channelId="1031" , TV RECORDE
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/648.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/648.m3u8
 #EXTINF:0 type="stream" channelId="2823" , PANDA
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/642.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/642.m3u8
 
 
 #EXTINF:0 type="stream" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , ???Desporto???
@@ -46,11 +46,11 @@ http://ssiptv.com:8899
 #EXTINF:0 type="stream" channelId="1332" , Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/632.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/632.m3u8
 #EXTINF:0 type="stream" channelId="1584" , SPORT TV 2
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/645.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/645.m3u8
 #EXTINF:0 type="stream" channelId="2864" , Benfica HD
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/17.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/17.m3u8
 
 #EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
 http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/249.ts
@@ -78,30 +78,30 @@ http://ssiptv.com:8899
 
 
 #EXTINF:0 type="stream" channelId="2246" , AXN HD
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/640.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/640.m3u8
 #EXTINF:0 type="stream" channelId="208" , FOX HD
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/639.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/639.m3u8
 #EXTINF:0 type="stream" channelId="1572" , FOX CRIME
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/647.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/647.m3u8
 #EXTINF:0 type="stream" channelId="73" , SYFY
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/646.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/646.m3u8
 #EXTINF:0 type="stream" channelId="2871" , TVCINE 1
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/636.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/636.m3u8
 #EXTINF:0 type="stream" channelId="2877" , TVCINE 4
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/637.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/637.m3u8
 
 
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/300px-The_Earth_seen_from_Apollo_17.jpg" , "Natureza"
 http://ssiptv.com:8899
 
 #EXTINF:0 type="stream" channelId="2869" , ODISSEIA
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/643.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/643.m3u8
 #EXTINF:0 type="stream" channelId="164" , NAT GEO WILD
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/634.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/634.m3u8
 #EXTINF:0 type="stream" channelId="2826" , HISTORIA
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/644.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/644.m3u8
 #EXTINF:0 type="stream" channelId="324" , CBS REALITY
-http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/641.m3u8
+http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/641.m3u8
 
 
 
