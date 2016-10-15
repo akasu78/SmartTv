@@ -106,6 +106,330 @@ http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/641.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" tvg-logo="http://campobelo.dominiotemporario.com/wp-content/uploads/2016/01/1362681069_1.jpg" , "Portugal"
+http://ssiptv.com:8899
+
+#EXTINF:-1,RTP 1
+http://freeiptv-tuga.zapto.org/live/free/iptv/2.ts
+#EXTINF:-1,RTP 1 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/3.ts
+#EXTINF:-1,RTP 1 (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/4.ts
+#EXTINF:-1,RTP 2
+http://freeiptv-tuga.zapto.org/live/free/iptv/5.ts
+#EXTINF:-1,RTP 2 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/6.ts
+#EXTINF:-1,RTP 2 (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/7.ts
+#EXTINF:-1,SIC
+http://freeiptv-tuga.zapto.org/live/free/iptv/8.ts
+#EXTINF:-1,SIC HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/9.ts
+#EXTINF:-1,SIC (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/10.ts
+#EXTINF:-1,TVI
+http://freeiptv-tuga.zapto.org/live/free/iptv/11.ts
+#EXTINF:-1,TVI HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/12.ts
+#EXTINF:-1,TVI (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/13.ts
+#EXTINF:-1,SIC Notcias
+http://freeiptv-tuga.zapto.org/live/free/iptv/14.ts
+#EXTINF:-1,TVI 24
+http://freeiptv-tuga.zapto.org/live/free/iptv/15.ts
+#EXTINF:-1,TVI 24 (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/16.ts
+#EXTINF:-1,RTP 3
+http://freeiptv-tuga.zapto.org/live/free/iptv/17.ts
+#EXTINF:-1,SIC Mulher
+http://freeiptv-tuga.zapto.org/live/free/iptv/18.ts
+#EXTINF:-1,SIC Radical
+http://freeiptv-tuga.zapto.org/live/free/iptv/19.ts
+#EXTINF:-1,Canal Q
+http://freeiptv-tuga.zapto.org/live/free/iptv/20.ts
+#EXTINF:-1,Porto Canal
+http://freeiptv-tuga.zapto.org/live/free/iptv/21.ts
+#EXTINF:-1,RTP Memria
+http://freeiptv-tuga.zapto.org/live/free/iptv/22.ts
+#EXTINF:-1,RTP frica
+http://freeiptv-tuga.zapto.org/live/free/iptv/23.ts
+#EXTINF:-1,RTP Madeira
+http://freeiptv-tuga.zapto.org/live/free/iptv/24.ts
+#EXTINF:-1,RTP Aores
+http://freeiptv-tuga.zapto.org/live/free/iptv/25.ts
+#EXTINF:-1,CM TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/26.ts
+#EXTINF:-1,CM TV (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/27.ts
+#EXTINF:-1,TVCine 1 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/28.ts
+#EXTINF:-1,TVCine 1 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/29.ts
+#EXTINF:-1,TVCine 2 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/30.ts
+#EXTINF:-1,TVCine 2 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/31.ts
+#EXTINF:-1,TVCine 3 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/32.ts
+#EXTINF:-1,TVCine 3 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/33.ts
+#EXTINF:-1,TVCine 4 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/34.ts
+#EXTINF:-1,TVCine 4 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/35.ts
+#EXTINF:-1,Hollywood
+http://freeiptv-tuga.zapto.org/live/free/iptv/36.ts
+#EXTINF:-1,Hollywood HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/37.ts
+#EXTINF:-1,Fox Movies
+http://freeiptv-tuga.zapto.org/live/free/iptv/38.ts
+#EXTINF:-1,FOX Movies FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/39.ts
+#EXTINF:-1,Cine Mundo
+http://freeiptv-tuga.zapto.org/live/free/iptv/40.ts
+#EXTINF:-1,MOV
+http://freeiptv-tuga.zapto.org/live/free/iptv/41.ts
+#EXTINF:-1,AXN HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/42.ts
+#EXTINF:-1,AXN HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/43.ts
+#EXTINF:-1,AXN White HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/44.ts
+#EXTINF:-1,AXN White HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/45.ts
+#EXTINF:-1,AXN Black HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/46.ts
+#EXTINF:-1,AXN Black HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/47.ts
+#EXTINF:-1,Fox HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/48.ts
+#EXTINF:-1,Fox Life HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/49.ts
+#EXTINF:-1,Fox Crime HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/50.ts
+#EXTINF:-1,SyFy
+http://freeiptv-tuga.zapto.org/live/free/iptv/51.ts
+#EXTINF:-1,FOX Comedy
+http://freeiptv-tuga.zapto.org/live/free/iptv/52.ts
+#EXTINF:-1,E! Entertainment
+http://freeiptv-tuga.zapto.org/live/free/iptv/53.ts
+#EXTINF:-1,CBS Reality
+http://freeiptv-tuga.zapto.org/live/free/iptv/54.ts
+#EXTINF:-1,TVSries HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/55.ts
+#EXTINF:-1,TVSries HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/56.ts
+#EXTINF:-1,TVI Fico
+http://freeiptv-tuga.zapto.org/live/free/iptv/57.ts
+#EXTINF:-1,SIC Caras
+http://freeiptv-tuga.zapto.org/live/free/iptv/58.ts
+#EXTINF:-1,TVI Reality
+http://freeiptv-tuga.zapto.org/live/free/iptv/59.ts
+#EXTINF:-1,TVI Reality: Cmara 4
+http://freeiptv-tuga.zapto.org/live/free/iptv/60.ts
+#EXTINF:-1,TVI Reality: Mosaico
+http://freeiptv-tuga.zapto.org/live/free/iptv/61.ts
+#EXTINF:-1,Sport TV 1
+http://freeiptv-tuga.zapto.org/live/free/iptv/62.ts
+#EXTINF:-1,Sport TV 1 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/63.ts
+#EXTINF:-1,Sport TV 1 FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/64.ts
+#EXTINF:-1,Sport TV 1 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/65.ts
+#EXTINF:-1,Sport TV 2
+http://freeiptv-tuga.zapto.org/live/free/iptv/66.ts
+#EXTINF:-1,Sport TV 2 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/67.ts
+#EXTINF:-1,Sport TV 2 FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/68.ts
+#EXTINF:-1,Sport TV 2 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/69.ts
+#EXTINF:-1,Sport TV 3
+http://freeiptv-tuga.zapto.org/live/free/iptv/70.ts
+#EXTINF:-1,Sport TV 3 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/71.ts
+#EXTINF:-1,Sport TV 3 FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/72.ts
+#EXTINF:-1,Sport TV 3 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/73.ts
+#EXTINF:-1,Sport TV 4
+http://freeiptv-tuga.zapto.org/live/free/iptv/74.ts
+#EXTINF:-1,Sport TV 4 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/75.ts
+#EXTINF:-1,Sport TV 4 FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/76.ts
+#EXTINF:-1,Sport TV 4 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/77.ts
+#EXTINF:-1,Sport TV 5
+http://freeiptv-tuga.zapto.org/live/free/iptv/78.ts
+#EXTINF:-1,Sport TV 5 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/79.ts
+#EXTINF:-1,Sport TV 5 FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/80.ts
+#EXTINF:-1,Sport TV 5 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/81.ts
+#EXTINF:-1,Sport  TV +
+http://freeiptv-tuga.zapto.org/live/free/iptv/82.ts
+#EXTINF:-1,Benfica TV 1
+http://freeiptv-tuga.zapto.org/live/free/iptv/83.ts
+#EXTINF:-1,Benfica TV 1 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/84.ts
+#EXTINF:-1,Benfica TV 1 FHD
+http://freeiptv-tuga.zapto.org/live/free/iptv/85.ts
+#EXTINF:-1,Benfica TV 1 HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/86.ts
+#EXTINF:-1,Sporting TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/87.ts
+#EXTINF:-1,Sporting TV HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/88.ts
+#EXTINF:-1,Sporting HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/89.ts
+#EXTINF:-1,Eurosport 1 HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/90.ts
+#EXTINF:-1,Eurosport 2
+http://freeiptv-tuga.zapto.org/live/free/iptv/91.ts
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/92.ts
+#EXTINF:-1,Eurosport 2 Xtra HD (LOW)
+http://freeiptv-tuga.zapto.org/live/free/iptv/93.ts
+#EXTINF:-1,Eurosport NEWS
+http://freeiptv-tuga.zapto.org/live/free/iptv/94.ts
+#EXTINF:-1,Fight Network HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/95.ts
+#EXTINF:-1,Motorvision
+http://freeiptv-tuga.zapto.org/live/free/iptv/96.ts
+#EXTINF:-1,Motors TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/97.ts
+#EXTINF:-1,PFC
+http://freeiptv-tuga.zapto.org/live/free/iptv/98.ts
+#EXTINF:-1,Real Madrid TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/99.ts
+#EXTINF:-1,Fuel TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/100.ts
+#EXTINF:-1,A Bola TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/101.ts
+#EXTINF:-1,Caavision
+http://freeiptv-tuga.zapto.org/live/free/iptv/102.ts
+#EXTINF:-1,Caa e Pesca
+http://freeiptv-tuga.zapto.org/live/free/iptv/103.ts
+#EXTINF:-1,Toros TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/104.ts
+#EXTINF:-1,National Geographic Channel HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/105.ts
+#EXTINF:-1,Nat Geo Wild
+http://freeiptv-tuga.zapto.org/live/free/iptv/106.ts
+#EXTINF:-1,Discovery Showcase HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/107.ts
+#EXTINF:-1,Discovery Channel
+http://freeiptv-tuga.zapto.org/live/free/iptv/108.ts
+#EXTINF:-1,TLC
+http://freeiptv-tuga.zapto.org/live/free/iptv/109.ts
+#EXTINF:-1,Odisseia
+http://freeiptv-tuga.zapto.org/live/free/iptv/110.ts
+#EXTINF:-1,A&E
+http://freeiptv-tuga.zapto.org/live/free/iptv/111.ts
+#EXTINF:-1,Record News
+http://freeiptv-tuga.zapto.org/live/free/iptv/112.ts
+#EXTINF:-1,FOX News
+http://freeiptv-tuga.zapto.org/live/free/iptv/113.ts
+#EXTINF:-1,Globo Premium
+http://freeiptv-tuga.zapto.org/live/free/iptv/114.ts
+#EXTINF:-1,Globo Portugal
+http://freeiptv-tuga.zapto.org/live/free/iptv/115.ts
+#EXTINF:-1,TV Record
+http://freeiptv-tuga.zapto.org/live/free/iptv/116.ts
+#EXTINF:-1,Euronews
+http://freeiptv-tuga.zapto.org/live/free/iptv/117.ts
+#EXTINF:-1,Travel Channel HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/118.ts
+#EXTINF:-1,Baby TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/119.ts
+#EXTINF:-1,SIC K
+http://freeiptv-tuga.zapto.org/live/free/iptv/120.ts
+#EXTINF:-1,Disney Junior
+http://freeiptv-tuga.zapto.org/live/free/iptv/121.ts
+#EXTINF:-1,Disney Channel
+http://freeiptv-tuga.zapto.org/live/free/iptv/122.ts
+#EXTINF:-1,Cartoon Network
+http://freeiptv-tuga.zapto.org/live/free/iptv/123.ts
+#EXTINF:-1,JimJam
+http://freeiptv-tuga.zapto.org/live/free/iptv/124.ts
+#EXTINF:-1,Panda Biggs
+http://freeiptv-tuga.zapto.org/live/free/iptv/125.ts
+#EXTINF:-1,Canal Panda
+http://freeiptv-tuga.zapto.org/live/free/iptv/126.ts
+#EXTINF:-1,Nickelodeon
+http://freeiptv-tuga.zapto.org/live/free/iptv/127.ts
+#EXTINF:-1,Canal Historia
+http://freeiptv-tuga.zapto.org/live/free/iptv/128.ts
+#EXTINF:-1,Bloomberg
+http://freeiptv-tuga.zapto.org/live/free/iptv/129.ts
+#EXTINF:-1,Outdoor Channel HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/130.ts
+#EXTINF:-1,Food Network HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/131.ts
+#EXTINF:-1,24 Kitchen HD
+http://freeiptv-tuga.zapto.org/live/free/iptv/132.ts
+#EXTINF:-1,Trace Urban
+http://freeiptv-tuga.zapto.org/live/free/iptv/133.ts
+#EXTINF:-1,AMC
+http://freeiptv-tuga.zapto.org/live/free/iptv/134.ts
+#EXTINF:-1,VH1 Classic
+http://freeiptv-tuga.zapto.org/live/free/iptv/135.ts
+#EXTINF:-1,Afro Music Channel
+http://freeiptv-tuga.zapto.org/live/free/iptv/136.ts
+#EXTINF:-1,MTV Portugal
+http://freeiptv-tuga.zapto.org/live/free/iptv/137.ts
+#EXTINF:-1,MCM Pop
+http://freeiptv-tuga.zapto.org/live/free/iptv/138.ts
+#EXTINF:-1,C Music TV
+http://freeiptv-tuga.zapto.org/live/free/iptv/139.ts
+#EXTINF:-1,VEVO TV 1
+http://freeiptv-tuga.zapto.org/live/free/iptv/140.ts
+#EXTINF:-1,VEVO TV 2
+http://freeiptv-tuga.zapto.org/live/free/iptv/141.ts
+#EXTINF:-1,VEVO TV 3
+http://freeiptv-tuga.zapto.org/live/free/iptv/142.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 type="stream" tvg-logo="https://pbs.twimg.com/profile_images/3000101448/da6b87f758ea18bcb15eabd5e69d5d15_400x400.jpeg" , "Só para Adultos"
 http://ssiptv.com:8899
 
@@ -127,3 +451,6 @@ http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/348.ts
 http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/349.ts
 #EXTINF:-1,Pink Erotic 4
 http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/350.ts
+
+
+
