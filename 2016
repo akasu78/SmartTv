@@ -13,12 +13,7 @@ Editada a : 14 - 10 - 2016 ( esta a ser actualizada )
 http://ssiptv.com:8899
 
 
-#EXTINF:0 type="stream" channelId="2832" , RTP 1
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/633.m3u8
-#EXTINF:0 type="stream" channelId="2645" , SIC
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/21.m3u8
-#EXTINF:0 type="stream" channelId="2647" , TVI
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/9.m3u8
+
 #EXTINF:0 type="stream" channelId="2647" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
@@ -29,14 +24,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2012/04/logotipoDE-150x150.jpg" , ECONOMICO TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://ocaolaranja.com/wp-content/uploads/2015/10/cm-tv-300x171.jpg" , CMTV
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/635.m3u8
-#EXTINF:0 type="stream" channelId="2649" , TVI REALITY
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/638.m3u8
-#EXTINF:0 type="stream" channelId="1031" , TV RECORDE
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/648.m3u8
-#EXTINF:0 type="stream" channelId="2823" , PANDA
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/642.m3u8
+
 
 
 #EXTINF:0 type="stream" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , ???Desporto???
@@ -45,12 +33,7 @@ http://ssiptv.com:8899
 
 #EXTINF:0 type="stream" channelId="1332" , Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/632.m3u8
-#EXTINF:0 type="stream" channelId="1584" , SPORT TV 2
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/645.m3u8
-#EXTINF:0 type="stream" channelId="2864" , Benfica HD
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/17.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
 http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/249.ts
@@ -77,31 +60,12 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 http://ssiptv.com:8899
 
 
-#EXTINF:0 type="stream" channelId="2246" , AXN HD
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/640.m3u8
-#EXTINF:0 type="stream" channelId="208" , FOX HD
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/639.m3u8
-#EXTINF:0 type="stream" channelId="1572" , FOX CRIME
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/647.m3u8
-#EXTINF:0 type="stream" channelId="73" , SYFY
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/646.m3u8
-#EXTINF:0 type="stream" channelId="2871" , TVCINE 1
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/636.m3u8
-#EXTINF:0 type="stream" channelId="2877" , TVCINE 4
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/637.m3u8
 
 
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/300px-The_Earth_seen_from_Apollo_17.jpg" , "Natureza"
 http://ssiptv.com:8899
 
-#EXTINF:0 type="stream" channelId="2869" , ODISSEIA
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/643.m3u8
-#EXTINF:0 type="stream" channelId="164" , NAT GEO WILD
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/634.m3u8
-#EXTINF:0 type="stream" channelId="2826" , HISTORIA
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/644.m3u8
-#EXTINF:0 type="stream" channelId="324" , CBS REALITY
-http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/641.m3u8
+
 
 
 
@@ -120,269 +84,140 @@ http://ptiptv.dyndns.tv:8000/live/cxtv/wbSh2SfB03/641.m3u8
 http://ssiptv.com:8899
 
 
-
-#EXTINF:-1,Benfica TV 2 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9212.ts
-#EXTINF:-1,Benfica TV 1 HD
-http://37.187.252.93:8000/live/serdar22/22serdar/9211.ts
-#EXTINF:-1,Sport TV 5 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4048.ts
-#EXTINF:-1,SPORT TV 1 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4051.ts
-#EXTINF:-1,SPORT TV 1
-http://37.187.252.93:8000/live/serdar22/22serdar/4029.ts
-#EXTINF:-1,SPORT TV 2 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4028.ts
-#EXTINF:-1,SPORT TV 3 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4050.ts
-#EXTINF:-1,Sport TV 4 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4049.ts
-#EXTINF:-1,SPORTV 4 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4047.ts
-#EXTINF:-1,SPORT TV 5 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4027.ts
-#EXTINF:-1,BTV 2 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4038.ts
-#EXTINF:-1,BTV 2 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4073.ts
-#EXTINF:-1,BTV 1 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4039.ts
-#EXTINF:-1,BTV 1 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4074.ts
-#EXTINF:-1,BARÇA TV (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4075.ts
-
-#EXTINF:-1,TVCINE 1 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4045.ts
-#EXTINF:-1,TVCINE 2 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4044.ts
-#EXTINF:-1,TVCINE 3 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4043.ts
-#EXTINF:-1,TVCINE 4 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4042.ts
-#EXTINF:-1,TVI (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4031.ts
-#EXTINF:-1,RTP 1 (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9172.ts
-#EXTINF:-1,RTP 2 (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9173.ts
-#EXTINF:-1,RTP 3 (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9174.ts
-#EXTINF:-1,RTP ?frica (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9175.ts
-#EXTINF:-1,RTP Memoria (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9253.ts
-#EXTINF:-1,RTP Madeira (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9176.ts
-#EXTINF:-1,RTP Internacional (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9169.ts
-#EXTINF:-1,RTP Acores (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9177.ts
-#EXTINF:-1,Tvi 24 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4041.ts
-#EXTINF:-1,TVI REALITY (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4030.ts
-#EXTINF:-1,Tv Record (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4046.ts
-#EXTINF:-1,TVI FICCAO (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4040.ts
-#EXTINF:-1,Sporting TV (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4032.ts
-#EXTINF:-1,Cinemundo (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4069.ts
-#EXTINF:-1,CHELSEA TV (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4070.ts
-#EXTINF:-1,TV Globo Premium (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9195.ts
-#EXTINF:-1,TV Globo (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9196.ts
-#EXTINF:-1,Travel Channel (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9254.ts
-#EXTINF:-1,Toros TV (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9197.ts
-#EXTINF:-1,Syfy (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9198.ts
-#EXTINF:-1,Sporting TV HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9215.ts
-#EXTINF:-1,Sport TV   (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9205.ts
-#EXTINF:-1,Sic Radical (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9185.ts
-#EXTINF:-1,Sic Noticias (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9182.ts
-#EXTINF:-1,Sic Mulher (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9183.ts
-#EXTINF:-1,Sic Kids (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9244.ts
-#EXTINF:-1,Sic HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9181.ts
-#EXTINF:-1,Sic Caras (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9184.ts
-#EXTINF:-1,Poker Central (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9250.ts
-#EXTINF:-1,Panda HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9238.ts
-#EXTINF:-1,NBA HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9218.ts
-#EXTINF:-1,National Geographic (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9246.ts
-#EXTINF:-1,Nat Geo Wild (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9251.ts
-#EXTINF:-1,Mov HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9199.ts
-#EXTINF:-1,Motorvision HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9247.ts
-#EXTINF:-1,Motors TV (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9220.ts
-#EXTINF:-1,Kombat Sports (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9221.ts
-#EXTINF:-1,JimJam (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9240.ts
-#EXTINF:-1,Hollywood (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9178.ts
-#EXTINF:-1,Fuel TV (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9224.ts
-#EXTINF:-1,Fox HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9186.ts
-#EXTINF:-1,Fox Crime (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9180.ts
-#EXTINF:-1,Fox Comedy (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9204.ts
-#EXTINF:-1,Fight Network (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9219.ts
-#EXTINF:-1,Eurosport News (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9214.ts
-#EXTINF:-1,Eurosport 2 Xtra (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9213.ts
-#EXTINF:-1,Eurosport 2 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9217.ts
-#EXTINF:-1,Eurosport 1 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9216.ts
-#EXTINF:-1,Euro news (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9170.ts
-#EXTINF:-1,Economico TV (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9233.ts
-#EXTINF:-1,Discovery Showcase (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9249.ts
-#EXTINF:-1,Discovery Channel (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9252.ts
-#EXTINF:-1,CMTV (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9171.ts
-#EXTINF:-1,CBS Reality (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9248.ts
-#EXTINF:-1,Cartoon Network (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9243.ts
-#EXTINF:-1,Candy (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9225.ts
-#EXTINF:-1,Canal Q (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9179.ts
-#EXTINF:-1,Can?ao Nova (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9226.ts
-#EXTINF:-1,Ca?avision (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9227.ts
-#EXTINF:-1,Ca?a e Pesca (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9228.ts
-#EXTINF:-1,Bloomberg (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9229.ts
-#EXTINF:-1,Benfica TV 2 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9212.ts
-#EXTINF:-1,Benfica TV 1 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9211.ts
-#EXTINF:-1,Sport TV 5 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4048.ts
-#EXTINF:-1,SPORT TV 1 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4051.ts
-#EXTINF:-1,SPORT TV 1 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4029.ts
-#EXTINF:-1,SPORT TV 2 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4028.ts
-#EXTINF:-1,SPORT TV 3 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4050.ts
-#EXTINF:-1,Sport TV 4 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4049.ts
-#EXTINF:-1,SPORTV 4 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4047.ts
-#EXTINF:-1,SPORT TV 5 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4027.ts
-#EXTINF:-1,BTV 2 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4038.ts
-#EXTINF:-1,BTV 2 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4073.ts
-#EXTINF:-1,BTV 1 HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4039.ts
-#EXTINF:-1,BTV 1 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4074.ts
-#EXTINF:-1,BARÇA TV (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4075.ts
-#EXTINF:-1,AXN White HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9200.ts
-#EXTINF:-1,AXN HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9201.ts
-#EXTINF:-1,AXN Black HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9202.ts
-#EXTINF:-1,Artv (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9230.ts
-#EXTINF:-1,Aande (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9232.ts
-#EXTINF:-1,Porto Canal (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9203.ts
-#EXTINF:-1,Vevo HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9235.ts
-#EXTINF:-1,Vevo 3 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9236.ts
-#EXTINF:-1,Vevo 2 HD (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9237.ts
-#EXTINF:-1,TVI Reality (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9234.ts
-#EXTINF:-1,TV Series (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9194.ts
-#EXTINF:-1,TV Lisboa (PT)
-http://37.187.252.93:8000/live/serdar22/22serdar/9223.ts
-
-#EXTINF:-1,SIC NOTICIAS (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4052.ts
-#EXTINF:-1,SIC MULHER (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4053.ts
-#EXTINF:-1,SIC K (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4054.ts
-#EXTINF:-1,SIC (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4035.ts
-#EXTINF:-1,RTP MEMORIA (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4055.ts
-#EXTINF:-1,RTP MADEIRA (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4056.ts
-#EXTINF:-1,RTP 1 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4037.ts
-#EXTINF:-1,RTP 2 (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4057.ts
-#EXTINF:-1,REAL MADRID TV HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4058.ts
-#EXTINF:-1,Porto Canal (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4059.ts
-#EXTINF:-1,Odisseia (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4061.ts
-#EXTINF:-1,Nickelodeon (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4062.ts
-#EXTINF:-1,Disney Junior (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4067.ts
-#EXTINF:-1,PANDA BIGGS (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4060.ts
-#EXTINF:-1,Mtv Portugal (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4063.ts
-#EXTINF:-1,MOTORS TV (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4064.ts
-#EXTINF:-1,JIM JAM (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4065.ts
-#EXTINF:-1,EUROSPORT HD (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4066.ts
-#EXTINF:-1,CM TV (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4068.ts
-#EXTINF:-1,Canal Panda (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4071.ts
-
-#EXTINF:-1,AMC (PO)
-http://37.187.252.93:8000/live/serdar22/22serdar/4077.ts
-
+#EXTINF:-1,PT: RTP 1
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2376.ts
+#EXTINF:-1,PT: RTP 2 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2377.ts
+#EXTINF:-1,PT: RTP 3
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2378.ts
+#EXTINF:-1,PT: RTP Açores
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2390.ts
+#EXTINF:-1,PT: RTP Madeira
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2389.ts
+#EXTINF:-1,PT: RTP Memória
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2388.ts
+#EXTINF:-1,PT: SIC
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2379.ts
+#EXTINF:-1,PT: TVI
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2380.ts
+#EXTINF:-1,PT: SIC Noticias
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2381.ts
+#EXTINF:-1,PT: TVI 24
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2382.ts
+#EXTINF:-1,PT: SIC Caras
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2385.ts
+#EXTINF:-1,PT: Porto Canal
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2387.ts
+#EXTINF:-1,PT: SIC Mulher
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2383.ts
+#EXTINF:-1,PT: SIC Radical
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2384.ts
+#EXTINF:-1,PT: TV Cine 1 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2392.ts
+#EXTINF:-1,PT: TV Cine 2 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2393.ts
+#EXTINF:-1,PT: TV Cine 3 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2394.ts
+#EXTINF:-1,PT: TV Cine 4 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2395.ts
+#EXTINF:-1,PT: Hollywood HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2396.ts
+#EXTINF:-1,PT: AMC
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2397.ts
+#EXTINF:-1,PT: Cinemundo
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2399.ts
+#EXTINF:-1,PT: TV Series
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2405.ts
+#EXTINF:-1,PT: E! Entertainment
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2406.ts
+#EXTINF:-1,PT: CBS Reality
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2407.ts
+#EXTINF:-1,PT: Sporting TV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2408.ts
+#EXTINF:-1,PT: FOX Comedy
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2404.ts
+#EXTINF:-1,PT: Fox Crime HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2403.ts
+#EXTINF:-1,PT: Fox Life HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2402.ts
+#EXTINF:-1,PT: Fox Movies
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2398.ts
+#EXTINF:-1,PT: SyFy
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2452.ts
+#EXTINF:-1,PT: AXN HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2400.ts
+#EXTINF:-1,PT: AXN HD White
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2401.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2421.ts
+#EXTINF:-1,PT: Discovery Channel
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2422.ts
+#EXTINF:-1,PT: TLC
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2423.ts
+#EXTINF:-1,PT: História HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2425.ts
+#EXTINF:-1,PT: Odisseia
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2424.ts
+#EXTINF:-1,PT: A&amp;E
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2426.ts
+#EXTINF:-1,PT: Baby TV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2440.ts
+#EXTINF:-1,PT: Cartoon Network
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2436.ts
+#EXTINF:-1,PT: Disney Channel
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2434.ts
+#EXTINF:-1,PT: Disney Junior
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2435.ts
+#EXTINF:-1,PT: Canal Panda
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2437.ts
+#EXTINF:-1,PT: Biggs
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2438.ts
+#EXTINF:-1,PT: SIC K
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2439.ts
+#EXTINF:-1,PT: CM TV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2441.ts
+#EXTINF:-1,PT: MOV HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2446.ts
+#EXTINF:-1,PT: Record News
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2448.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/1742.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/1743.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/1744.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/1745.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/1746.ts
+#EXTINF:-1,PT: Benfica TV1 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2412.ts
+#EXTINF:-1,PT: Benfica TV2 HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2413.ts
+#EXTINF:-1,PT: Eurosport 1
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2414.ts
+#EXTINF:-1,PT: Eurosport 2
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2415.ts
+#EXTINF:-1,PT: PFC
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2417.ts
+#EXTINF:-1,PT: Fuel TV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2419.ts
+#EXTINF:-1,PT: Motors TV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2418.ts
+#EXTINF:-1,PT: A Bola TV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2411.ts
+#EXTINF:-1,PT: MTV
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2429.ts
+#EXTINF:-1,PT: iConcerts HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2977.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2430.ts
+#EXTINF:-1,PT: Globo
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2447.ts
+#EXTINF:-1,PT: TV Galicia
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2449.ts
+#EXTINF:-1,PT: TVI FICçAO
+http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2409.ts
 
 
 
