@@ -13,7 +13,99 @@ Editada a : 19 - 11 - 2016 ( esta a ser actualizada )
 http://ssiptv.com:8899
 
 
+#EXTINF:0 type="stream" channelId="2647" , TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:0 type="stream" channelId="2647" , TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
+#EXTINF:0 type="stream" channelId="2647" , TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:0 type="stream" channelId="2648" , TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2012/04/logotipoDE-150x150.jpg" , ECONOMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
+
+
+#EXTINF:0 type="stream" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , ???Desporto???
+http://ssiptv.com:8899
+
+
+#EXTINF:0 type="stream" channelId="1332" , Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="1582" , SPORT.TV1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts
+#EXTINF:0 type="stream" channelId="1584" , SPORT.TV2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.m3u8
+#EXTINF:0 type="stream" channelId="1585" , SPORT.TV3
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.m3u8
+#EXTINF:0 type="stream" channelId="1586" , SPORT.TV4
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts
+#EXTINF:0 type="stream" channelId="2862" , SPORT.TV5
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2139.ts
+#EXTINF:0 type="stream" channelId="1374" , Sporting TV
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1720.ts
+#EXTINF:0 type="stream" channelId="2834" , Benfica TV 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts
+#EXTINF:0 type="stream" channelId="2863" , A Bola TV
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1710.ts
+#EXTINF:0 type="stream" channelId="2985" , Automoto TV
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2145.ts
+#EXTINF:0 type="stream" channelId="82" , Eurosport 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1666.ts
+#EXTINF:0 type="stream" channelId="82" , Eurosport 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1667.ts
+#EXTINF:0 type="stream" channelId="83" , Eurosport 2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2247.ts
+
+
+#EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/249.ts
+#EXTINF:0 type="stream" channelId="1584" , SPORT TV 2
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/250.ts
+#EXTINF:0 type="stream" channelId="1585" , SPORT TV 3
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/251.ts
+#EXTINF:0 type="stream" channelId="1586" , SPORT TV 4
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/252.ts
+#EXTINF:0 type="stream" channelId="2862" , SPORT TV 5
+http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/253.ts
+
+
+#EXTINF:0 type="stream" tvg-logo="http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png" , "Musica"
+http://ssiptv.com:8899
+
+#EXTINF:0 type="stream" channelId="1710" , Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0 type="stream" channelId="2177" , M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+
+#EXTINF:0 type="stream" tvg-logo="http://profjc.net/joomla15/images/stories/news/alunos/cinema-pipoca-cocacola.jpg" , "Cinema"
+http://ssiptv.com:8899
+
+
+
+
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/300px-The_Earth_seen_from_Apollo_17.jpg" , "Natureza"
+http://ssiptv.com:8899
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" tvg-logo="http://campobelo.dominiotemporario.com/wp-content/uploads/2016/01/1362681069_1.jpg" , "Portugal"
+http://ssiptv.com:8899
 
 #EXTINF:0 type="stream" channelId="2832" , RTP 1
 http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1727.ts
@@ -343,109 +435,13 @@ http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1565.ts
 
 
 
-
-
-
-
-
-
-
---------------------------Ultima lista em teste------------------------------
-
-
-#EXTINF:0 type="stream" channelId="2647" , TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:0 type="stream" channelId="2647" , TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
-#EXTINF:0 type="stream" channelId="2647" , TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
-#EXTINF:0 type="stream" channelId="2648" , TVI 24
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2012/04/logotipoDE-150x150.jpg" , ECONOMICO TV
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-
-
-
-#EXTINF:0 type="stream" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , ???Desporto???
-http://ssiptv.com:8899
-
-
-#EXTINF:0 type="stream" channelId="1332" , Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0 type="stream" channelId="1582" , SPORT.TV1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts
-#EXTINF:0 type="stream" channelId="1584" , SPORT.TV2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.m3u8
-#EXTINF:0 type="stream" channelId="1585" , SPORT.TV3
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.m3u8
-#EXTINF:0 type="stream" channelId="1586" , SPORT.TV4
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts
-#EXTINF:0 type="stream" channelId="2862" , SPORT.TV5
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2139.ts
-#EXTINF:0 type="stream" channelId="1374" , Sporting TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1720.ts
-#EXTINF:0 type="stream" channelId="2834" , Benfica TV 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts
-#EXTINF:0 type="stream" channelId="2863" , A Bola TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1710.ts
-#EXTINF:0 type="stream" channelId="2985" , Automoto TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2145.ts
-#EXTINF:0 type="stream" channelId="82" , Eurosport 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1666.ts
-#EXTINF:0 type="stream" channelId="82" , Eurosport 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1667.ts
-#EXTINF:0 type="stream" channelId="83" , Eurosport 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2247.ts
-
-
-#EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
-http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/249.ts
-#EXTINF:0 type="stream" channelId="1584" , SPORT TV 2
-http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/250.ts
-#EXTINF:0 type="stream" channelId="1585" , SPORT TV 3
-http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/251.ts
-#EXTINF:0 type="stream" channelId="1586" , SPORT TV 4
-http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/252.ts
-#EXTINF:0 type="stream" channelId="2862" , SPORT TV 5
-http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/253.ts
-
-
-#EXTINF:0 type="stream" tvg-logo="http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png" , "Musica"
-http://ssiptv.com:8899
-
-#EXTINF:0 type="stream" channelId="1710" , Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:0 type="stream" channelId="2177" , M6 Music
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-
-#EXTINF:0 type="stream" tvg-logo="http://profjc.net/joomla15/images/stories/news/alunos/cinema-pipoca-cocacola.jpg" , "Cinema"
-http://ssiptv.com:8899
-
-
-
-
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/300px-The_Earth_seen_from_Apollo_17.jpg" , "Natureza"
-http://ssiptv.com:8899
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 type="stream" tvg-logo="http://campobelo.dominiotemporario.com/wp-content/uploads/2016/01/1362681069_1.jpg" , "Portugal"
 http://ssiptv.com:8899
+
+
+
+
+
 
 
 #EXTINF:-1,PT: RTP 1
