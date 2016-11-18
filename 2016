@@ -34,6 +34,31 @@ http://ssiptv.com:8899
 #EXTINF:0 type="stream" channelId="1332" , Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:0 type="stream" channelId="1582" , SPORT.TV1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts
+#EXTINF:0 type="stream" channelId="1584" , SPORT.TV2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.m3u8
+#EXTINF:0 type="stream" channelId="1585" , SPORT.TV3
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.m3u8
+#EXTINF:0 type="stream" channelId="1586" , SPORT.TV4
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts
+#EXTINF:0 type="stream" channelId="2862" , SPORT.TV5
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2139.ts
+#EXTINF:0 type="stream" channelId="1374" , Sporting TV
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1720.ts
+#EXTINF:0 type="stream" channelId="2834" , Benfica TV 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts
+#EXTINF:0 type="stream" channelId="2863" , A Bola TV
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1710.ts
+#EXTINF:0 type="stream" channelId="2985" , Automoto TV
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2145.ts
+#EXTINF:0 type="stream" channelId="82" , Eurosport 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1666.ts
+#EXTINF:0 type="stream" channelId="82" , Eurosport 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1667.ts
+#EXTINF:0 type="stream" channelId="83" , Eurosport 2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2247.ts
+
 
 #EXTINF:0 type="stream" channelId="1583" , SPORTV 1 HD
 http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/249.ts
@@ -227,6 +252,21 @@ http://offside.uk.to:11118/live/mRq17YH0Tp/nPjizsp01A/2409.ts
 
 #EXTINF:0 type="stream" tvg-logo="https://pbs.twimg.com/profile_images/3000101448/da6b87f758ea18bcb15eabd5e69d5d15_400x400.jpeg" , "Só para Adultos"
 http://ssiptv.com:8899
+
+
+
+#EXTINF:-1 tvg-logo="http://farm4.static.flickr.com/3318/3449626483_b198f40d62.jpg" group-title="Adulto", PornoTv
+http://78.46.64.13:1935/tv3/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://b.vimeocdn.com/ts/222/317/222317748_640.jpg" group-title="Adulto", Playy
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/--0Smo8NCWoo/AAAAAAAAAAI/AAAAAAAAAAA/dKDYGIvK5bo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Adulto", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+
+
+
 
 #EXTINF:-1,XXX1
 http://nasa-tv.no-ip.biz:8000/live/senadinhamzic421/IFiXNvIdJ6/343.ts
