@@ -234,6 +234,789 @@ http://iptv.electro-clair.net:8000/live/xxx/xxx/2615.ts
 
 
 
+#EXTINF:0 type="stream" tvg-logo="http://campobelo.dominiotemporario.com/wp-content/uploads/2016/01/1362681069_1.jpg" , "Portugal"
+http://ssiptv.com:8899
+
+
+#EXTINF:-1,--PT-- RTP 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/427.ts
+#EXTINF:-1,--PT-- RTP 1
+http://vidash2.dtdns.net:8007/live/chico/chico/154.ts
+#EXTINF:-1,--PT-- RTP 2
+http://vidash2.dtdns.net:8007/live/chico/chico/155.ts
+#EXTINF:-1,--PT-- Sic
+http://vidash2.dtdns.net:8007/live/chico/chico/158.ts
+#EXTINF:-1,--PT-- TVI
+http://vidash2.dtdns.net:8007/live/chico/chico/159.ts
+#EXTINF:-1,--PT-- RTP 3
+http://vidash2.dtdns.net:8007/live/chico/chico/156.ts
+#EXTINF:-1,--PT-- Sport TV 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/234.ts
+#EXTINF:-1,--PT-- Sport TV 1
+http://vidash2.dtdns.net:8007/live/chico/chico/163.ts
+#EXTINF:-1,--PT-- Sport TV 2 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/464.ts
+#EXTINF:-1,--PT-- Sport TV 2
+http://vidash2.dtdns.net:8007/live/chico/chico/164.ts
+#EXTINF:-1,--PT-- Sport TV 3
+http://vidash2.dtdns.net:8007/live/chico/chico/165.ts
+#EXTINF:-1,--PT-- Sport TV 4
+http://vidash2.dtdns.net:8007/live/chico/chico/465.ts
+#EXTINF:-1,--PT-- Benfica TV 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/452.ts
+#EXTINF:-1,--PT-- Real Madrid
+http://vidash2.dtdns.net:8007/live/chico/chico/153.ts
+#EXTINF:-1,--PT-- Hollywood
+http://vidash2.dtdns.net:8007/live/chico/chico/150.ts
+#EXTINF:-1,--PT-- TVC 1
+http://vidash2.dtdns.net:8007/live/chico/chico/166.ts
+#EXTINF:-1,--PT-- TVC 2
+http://vidash2.dtdns.net:8007/live/chico/chico/167.ts
+#EXTINF:-1,--PT-- TVC 3
+http://vidash2.dtdns.net:8007/live/chico/chico/168.ts
+#EXTINF:-1,--PT-- TVC 4
+http://vidash2.dtdns.net:8007/live/chico/chico/169.ts
+#EXTINF:-1,--PT-- TVSeries
+http://vidash2.dtdns.net:8007/live/chico/chico/170.ts
+#EXTINF:-1,--PT-- Fox HD
+http://vidash2.dtdns.net:8007/live/chico/chico/238.ts
+#EXTINF:-1,--PT-- Fox Crime HD
+http://vidash2.dtdns.net:8007/live/chico/chico/450.ts
+#EXTINF:-1,--PT-- Fox Comedy
+http://vidash2.dtdns.net:8007/live/chico/chico/239.ts
+#EXTINF:-1,--PT-- AXN HD
+http://vidash2.dtdns.net:8007/live/chico/chico/236.ts
+#EXTINF:-1,--PT-- Axn White HD
+http://vidash2.dtdns.net:8007/live/chico/chico/454.ts
+#EXTINF:-1,--PT-- Axn Black HD
+http://vidash2.dtdns.net:8007/live/chico/chico/453.ts
+#EXTINF:-1,--PT-- Canal Panda
+http://vidash2.dtdns.net:8007/live/chico/chico/147.ts
+#EXTINF:-1,--PT-- Disney Junior
+http://vidash2.dtdns.net:8007/live/chico/chico/443.ts
+#EXTINF:-1,--PT-- Disney Channel
+http://vidash2.dtdns.net:8007/live/chico/chico/280.ts
+#EXTINF:-1,--PT-- Cartoon Network
+http://vidash2.dtdns.net:8007/live/chico/chico/444.ts
+#EXTINF:-1,--PT-- Odisseia
+http://vidash2.dtdns.net:8007/live/chico/chico/151.ts
+#EXTINF:-1,--PT-- CMTV
+http://vidash2.dtdns.net:8007/live/chico/chico/148.ts
+#EXTINF:-1,--PT-- Abola TV
+http://vidash2.dtdns.net:8007/live/chico/chico/146.ts
+#EXTINF:-1,--PT-- Porto Canal
+http://vidash2.dtdns.net:8007/live/chico/chico/152.ts
+#EXTINF:-1,--PT-- RTP Africa
+http://vidash2.dtdns.net:8007/live/chico/chico/157.ts
+#EXTINF:-1,--PT-- Sic Radical
+http://vidash2.dtdns.net:8007/live/chico/chico/162.ts
+#EXTINF:-1,--PT-- Sic Noticias
+http://vidash2.dtdns.net:8007/live/chico/chico/161.ts
+#EXTINF:-1,--PT-- Sic Caras
+http://vidash2.dtdns.net:8007/live/chico/chico/160.ts
+#EXTINF:-1,--PT-- TVI24
+http://vidash2.dtdns.net:8007/live/chico/chico/171.ts
+#EXTINF:-1,--PT-- TVI Ficcao
+http://vidash2.dtdns.net:8007/live/chico/chico/172.ts
+#EXTINF:-1,-=FR=- M6 Music
+http://vidash2.dtdns.net:8007/live/chico/chico/303.ts
+#EXTINF:-1,-=FR=- NRJ HITS
+http://vidash2.dtdns.net:8007/live/chico/chico/306.ts
+#EXTINF:-1,-=FR=- AB MOTEURS
+http://vidash2.dtdns.net:8007/live/chico/chico/328.ts
+#EXTINF:-1,-=FR=- SYFY HD
+http://vidash2.dtdns.net:8007/live/chico/chico/402.ts
+#EXTINF:-1,-=FR=- Animaux
+http://vidash2.dtdns.net:8007/live/chico/chico/337.ts
+#EXTINF:-1,-=FR=- SEASON HD
+http://vidash2.dtdns.net:8007/live/chico/chico/398.ts
+#EXTINF:-1,-=FR=- Discovery
+http://vidash2.dtdns.net:8007/live/chico/chico/332.ts
+#EXTINF:-1,-=FR=- CARTOON NETWORK HD
+http://vidash2.dtdns.net:8007/live/chico/chico/368.ts
+#EXTINF:-1,-=FR=- NICKELODEON
+http://vidash2.dtdns.net:8007/live/chico/chico/372.ts
+#EXTINF:-1,-=FR=- TCM_CINEMA
+http://vidash2.dtdns.net:8007/live/chico/chico/286.ts
+#EXTINF:-1,-=FR=- CINE PREMIERE HD
+http://vidash2.dtdns.net:8007/live/chico/chico/281.ts
+#EXTINF:-1,-=FR=- FRANCE Ô
+http://vidash2.dtdns.net:8007/live/chico/chico/345.ts
+#EXTINF:-1,-=FR=- FRANCE 5 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/346.ts
+#EXTINF:-1,-=FR=- FRANCE 4 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/342.ts
+#EXTINF:-1,-=FR=- FRANCE 3 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/341.ts
+#EXTINF:-1,-=FR=- FRANCE 2 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/340.ts
+#EXTINF:-1,-=FR=- SERIE CLUB HD
+http://vidash2.dtdns.net:8007/live/chico/chico/375.ts
+#EXTINF:-1,-=FR=- COMEDIE +
+http://vidash2.dtdns.net:8007/live/chico/chico/361.ts
+#EXTINF:-1,-=FR=- PARIS PREMIERE HD
+http://vidash2.dtdns.net:8007/live/chico/chico/394.ts
+#EXTINF:-1,-=FR=- Nat Geo Wild
+http://vidash2.dtdns.net:8007/live/chico/chico/377.ts
+#EXTINF:-1,-=FR=- USHUAIA
+http://vidash2.dtdns.net:8007/live/chico/chico/385.ts
+#EXTINF:-1,-=FR=- Boomerang HD
+http://vidash2.dtdns.net:8007/live/chico/chico/363.ts
+#EXTINF:-1,-=FR=- CINE  FAMIZ HD
+http://vidash2.dtdns.net:8007/live/chico/chico/285.ts
+#EXTINF:-1,-=FR=- CHERIE25 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/384.ts
+#EXTINF:-1,-=FR=- OCS Geants HD
+http://vidash2.dtdns.net:8007/live/chico/chico/291.ts
+#EXTINF:-1,-=FR=- CINE FX
+http://vidash2.dtdns.net:8007/live/chico/chico/288.ts
+#EXTINF:-1,-=FR=- beIN SPORTS 3 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/326.ts
+#EXTINF:-1,-=FR=- BeIN SPORTS 2 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/325.ts
+#EXTINF:-1,-=FR=- beIN SPORTS 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/324.ts
+#EXTINF:-1,-=FR=- CANAL  SPORT HD
+http://vidash2.dtdns.net:8007/live/chico/chico/323.ts
+#EXTINF:-1,-=FR=- CANAL  HD
+http://vidash2.dtdns.net:8007/live/chico/chico/355.ts
+#EXTINF:-1,-=FR=- CANAL  FAMILY HD
+http://vidash2.dtdns.net:8007/live/chico/chico/356.ts
+#EXTINF:-1,-=FR=- CANAL  DECALE HD
+http://vidash2.dtdns.net:8007/live/chico/chico/359.ts
+#EXTINF:-1,-=FR=- CANAL  CINEMA HD
+http://vidash2.dtdns.net:8007/live/chico/chico/358.ts
+#EXTINF:-1,-=FR=- CINE Frisson HD
+http://vidash2.dtdns.net:8007/live/chico/chico/282.ts
+#EXTINF:-1,-=FR=- CINE EMOTION HD
+http://vidash2.dtdns.net:8007/live/chico/chico/283.ts
+#EXTINF:-1,-=FR=- CINE  CLASSIC HD
+http://vidash2.dtdns.net:8007/live/chico/chico/284.ts
+#EXTINF:-1,-=FR=- SFR SPORT 3
+http://vidash2.dtdns.net:8007/live/chico/chico/318.ts
+#EXTINF:-1,-=FR=- SFR SPORT 2
+http://vidash2.dtdns.net:8007/live/chico/chico/317.ts
+#EXTINF:-1,-=FR=- SFR SPORT 1
+http://vidash2.dtdns.net:8007/live/chico/chico/316.ts
+#EXTINF:-1,-=FR=- HD1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/338.ts
+#EXTINF:-1,-=FR=- M6 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/347.ts
+#EXTINF:-1,-=FR=- PLANETE CI HD
+http://vidash2.dtdns.net:8007/live/chico/chico/382.ts
+#EXTINF:-1,-=FR=- NRJ12 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/308.ts
+#EXTINF:-1,-=FR=- OCS MAX HD
+http://vidash2.dtdns.net:8007/live/chico/chico/290.ts
+#EXTINF:-1,-=FR=- OCS CITY HD
+http://vidash2.dtdns.net:8007/live/chico/chico/292.ts
+#EXTINF:-1,-=FR=- OCS CHOC
+http://vidash2.dtdns.net:8007/live/chico/chico/399.ts
+#EXTINF:-1,-=FR=- TF1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/339.ts
+#EXTINF:-1,-=FR=- W9 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/350.ts
+#EXTINF:-1,-=FR=- TMC HD
+http://vidash2.dtdns.net:8007/live/chico/chico/351.ts
+#EXTINF:-1,-=FR=- A LA CARTE 1
+http://vidash2.dtdns.net:8007/live/chico/chico/293.ts
+#EXTINF:-1,-=FR=- A LA CARTE 2
+http://vidash2.dtdns.net:8007/live/chico/chico/294.ts
+#EXTINF:-1,-=FR=- A LA CARTE 3
+http://vidash2.dtdns.net:8007/live/chico/chico/295.ts
+#EXTINF:-1,-=FR=- A LA CARTE 4
+http://vidash2.dtdns.net:8007/live/chico/chico/296.ts
+#EXTINF:-1,-=FR=- A LA CARTE 5
+http://vidash2.dtdns.net:8007/live/chico/chico/297.ts
+#EXTINF:-1,-=FR=- A LA CARTE 6
+http://vidash2.dtdns.net:8007/live/chico/chico/298.ts
+#EXTINF:-1,-=FR=- A LA CARTE 7
+http://vidash2.dtdns.net:8007/live/chico/chico/476.ts
+#EXTINF:-1,-=FR=- A LA CARTE 8
+http://vidash2.dtdns.net:8007/live/chico/chico/477.ts
+#EXTINF:-1,-=FR=- A LA CARTE 9
+http://vidash2.dtdns.net:8007/live/chico/chico/478.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://iptv.re/live/george/george/1785.ts
+#EXTINF:-1,ES: BEIN LA LIGA
+http://iptv.re/live/george/george/2516.ts
+#EXTINF:-1,ES: CANAL LIGA HD 2
+http://iptv.re/live/george/george/2517.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://iptv.re/live/george/george/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://iptv.re/live/george/george/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://iptv.re/live/george/george/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://iptv.re/live/george/george/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://iptv.re/live/george/george/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://iptv.re/live/george/george/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://iptv.re/live/george/george/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://iptv.re/live/george/george/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://iptv.re/live/george/george/1915.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://iptv.re/live/george/george/1765.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://iptv.re/live/george/george/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://iptv.re/live/george/george/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://iptv.re/live/george/george/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://iptv.re/live/george/george/2522.ts
+#EXTINF:-1,ES: CUATRO HD
+http://iptv.re/live/george/george/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://iptv.re/live/george/george/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://iptv.re/live/george/george/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://iptv.re/live/george/george/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://iptv.re/live/george/george/2426.ts
+#EXTINF:-1,ES: CANAL MUSICA
+http://iptv.re/live/george/george/2428.ts
+#EXTINF:-1,ES: Canal Cocina
+http://iptv.re/live/george/george/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptv.re/live/george/george/2445.ts
+#EXTINF:-1,ES: TELECINCO
+http://iptv.re/live/george/george/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://iptv.re/live/george/george/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://iptv.re/live/george/george/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://iptv.re/live/george/george/1907.ts
+#EXTINF:-1,ES: TCM
+http://iptv.re/live/george/george/2528.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://iptv.re/live/george/george/2436.ts
+#EXTINF:-1,ES: MEGA
+http://iptv.re/live/george/george/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://iptv.re/live/george/george/1909.ts
+#EXTINF:-1,ES: La 2
+http://iptv.re/live/george/george/2532.ts
+#EXTINF:-1,ES: La 1
+http://iptv.re/live/george/george/2531.ts
+#EXTINF:-1,ES: HUESCA TV
+http://iptv.re/live/george/george/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://iptv.re/live/george/george/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE Ñ
+http://iptv.re/live/george/george/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://iptv.re/live/george/george/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://iptv.re/live/george/george/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://iptv.re/live/george/george/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://iptv.re/live/george/george/1793.ts
+#EXTINF:-1,ES: FOX
+http://iptv.re/live/george/george/1790.ts
+#EXTINF:-1,ES: History
+http://iptv.re/live/george/george/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://iptv.re/live/george/george/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://iptv.re/live/george/george/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://iptv.re/live/george/george/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://iptv.re/live/george/george/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://iptv.re/live/george/george/2435.ts
+#EXTINF:-1,ES: AMC
+http://iptv.re/live/george/george/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://iptv.re/live/george/george/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://iptv.re/live/george/george/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://iptv.re/live/george/george/2422.ts
+#EXTINF:-1,ES: Axn White
+http://iptv.re/live/george/george/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://iptv.re/live/george/george/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://iptv.re/live/george/george/1923.ts
+#EXTINF:-1,ES: TVE3
+http://iptv.re/live/george/george/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://iptv.re/live/george/george/1918.ts
+#EXTINF:-1,ES: TVE
+http://iptv.re/live/george/george/2420.ts
+#EXTINF:-1,ES: TNT HD
+http://iptv.re/live/george/george/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://iptv.re/live/george/george/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://iptv.re/live/george/george/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://iptv.re/live/george/george/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://iptv.re/live/george/george/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://iptv.re/live/george/george/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://iptv.re/live/george/george/1921.ts
+#EXTINF:-1,TR Sinema TV
+http://iptv.re/live/george/george/3382.ts
+#EXTINF:-1,TR MovieSmart Turk
+http://iptv.re/live/george/george/3377.ts
+#EXTINF:-1,TR MovieSmart Premium HD
+http://iptv.re/live/george/george/3380.ts
+#EXTINF:-1,TR MovieSmart Premium 2
+http://iptv.re/live/george/george/3381.ts
+#EXTINF:-1,TR MovieSmart Platin2
+http://iptv.re/live/george/george/3379.ts
+#EXTINF:-1,TR MovieSmart Platin
+http://iptv.re/live/george/george/3378.ts
+#EXTINF:-1,TR MovieSmart Gold
+http://iptv.re/live/george/george/3376.ts
+#EXTINF:-1,TR MovieSmart Fest
+http://iptv.re/live/george/george/3374.ts
+#EXTINF:-1,TR MovieSmart Family
+http://iptv.re/live/george/george/3373.ts
+#EXTINF:-1,TR MovieSmart Classic
+http://iptv.re/live/george/george/3375.ts
+#EXTINF:-1,TR Movie Smart Action HD
+http://iptv.re/live/george/george/3372.ts
+#EXTINF:-1,TR: ATV
+http://iptv.re/live/george/george/2454.ts
+#EXTINF:-1,TR: TRT 1
+http://iptv.re/live/george/george/2457.ts
+#EXTINF:-1,TR: Star TV
+http://iptv.re/live/george/george/2455.ts
+#EXTINF:-1,TR: Smart Sport
+http://iptv.re/live/george/george/2460.ts
+#EXTINF:-1,TR: TRT
+http://iptv.re/live/george/george/2733.ts
+#EXTINF:-1,TR: TRT 3 Spor
+http://iptv.re/live/george/george/2734.ts
+#EXTINF:-1,TR: Sports TV
+http://iptv.re/live/george/george/2735.ts
+#EXTINF:-1,TR: FOX TV
+http://iptv.re/live/george/george/2731.ts
+#EXTINF:-1,TR: Fox Life HD
+http://iptv.re/live/george/george/2732.ts
+#EXTINF:-1,TR: Show TV
+http://iptv.re/live/george/george/2458.ts
+#EXTINF:-1,TR: NTV Spor
+http://iptv.re/live/george/george/2452.ts
+#EXTINF:-1,TR: MovieSmart Premium
+http://iptv.re/live/george/george/2462.ts
+#EXTINF:-1,TR: MovieSmart Action
+http://iptv.re/live/george/george/2463.ts
+#EXTINF:-1,TR: Kral Pop TV
+http://iptv.re/live/george/george/2456.ts
+#EXTINF:-1,TR: Kanal D
+http://iptv.re/live/george/george/2453.ts
+#EXTINF:-1,TR: Fox Sports
+http://iptv.re/live/george/george/2461.ts
+#EXTINF:-1,EX-YU: Pink Thriller
+http://iptv.re/live/george/george/2100.ts
+#EXTINF:-1,EX-YU: Pink Sci
+http://iptv.re/live/george/george/2413.ts
+#EXTINF:-1,EX-YU: Pink Romance
+http://iptv.re/live/george/george/2101.ts
+#EXTINF:-1,EX-YU: Pink Horror
+http://iptv.re/live/george/george/2102.ts
+#EXTINF:-1,EX-YU: Pink Crime
+http://iptv.re/live/george/george/2104.ts
+#EXTINF:-1,EX-YU: Pink Comedy
+http://iptv.re/live/george/george/2103.ts
+#EXTINF:-1,EX-YU: Pink Zabava
+http://iptv.re/live/george/george/3147.ts
+#EXTINF:-1,EX-YU: Pink Soap
+http://iptv.re/live/george/george/3146.ts
+#EXTINF:-1,EX-YU: Pink Reality
+http://iptv.re/live/george/george/3145.ts
+#EXTINF:-1,EX-YU: Pink Premium
+http://iptv.re/live/george/george/3148.ts
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://iptv.re/live/george/george/3144.ts
+#EXTINF:-1,EX-YU: Pink Folk 1
+http://iptv.re/live/george/george/3143.ts
+#EXTINF:-1,EX-YU: TRING WORLD
+http://iptv.re/live/george/george/3054.ts
+#EXTINF:-1,EX-YU: TRING TRING
+http://iptv.re/live/george/george/3053.ts
+#EXTINF:-1,EX-YU: TRING SUPER
+http://iptv.re/live/george/george/3052.ts
+#EXTINF:-1,EX-YU: TRING PLANET
+http://iptv.re/live/george/george/3051.ts
+#EXTINF:-1,EX-YU: TRING MAX
+http://iptv.re/live/george/george/3050.ts
+#EXTINF:-1,EX-YU: TRING LIFE
+http://iptv.re/live/george/george/3049.ts
+#EXTINF:-1,EX-YU: TRING HISTORY
+http://iptv.re/live/george/george/3048.ts
+#EXTINF:-1,EX-YU: TRING FANTASY
+http://iptv.re/live/george/george/3047.ts
+#EXTINF:-1,EX-YU: TRING COMEDY
+http://iptv.re/live/george/george/3046.ts
+#EXTINF:-1,EX-YU: Kino Premiere 2
+http://iptv.re/live/george/george/3044.ts
+#EXTINF:-1,EX-YU: Kino Premiere 1
+http://iptv.re/live/george/george/3045.ts
+#EXTINF:-1,FR: TF1 HD
+http://iptv.re/live/george/george/703.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://iptv.re/live/george/george/718.ts
+#EXTINF:-1,FR: FRANCE 3 HD
+http://iptv.re/live/george/george/717.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+http://iptv.re/live/george/george/716.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+http://iptv.re/live/george/george/715.ts
+#EXTINF:-1,FR: ACTION HD
+http://iptv.re/live/george/george/747.ts
+#EXTINF:-1,FR: W9 HD
+http://iptv.re/live/george/george/700.ts
+#EXTINF:-1,FR: M6 HD
+http://iptv.re/live/george/george/711.ts
+#EXTINF:-1,FR: ARTE HD
+http://iptv.re/live/george/george/745.ts
+#EXTINF:-1,FR: 6TER HD
+http://iptv.re/live/george/george/1935.ts
+#EXTINF:-1,FR: D8 HD
+http://iptv.re/live/george/george/728.ts
+#EXTINF:-1,FR: Paris Premiere
+http://iptv.re/live/george/george/752.ts
+#EXTINF:-1,FR: Nickelodeon
+http://iptv.re/live/george/george/4083.ts
+#EXTINF:-1,FR: MTV Hits
+http://iptv.re/live/george/george/4087.ts
+#EXTINF:-1,FR: MTV
+http://iptv.re/live/george/george/4086.ts
+#EXTINF:-1,FR: LCP
+http://iptv.re/live/george/george/4090.ts
+#EXTINF:-1,FR: Histoire
+http://iptv.re/live/george/george/4089.ts
+#EXTINF:-1,FR: FRANCE 0 HD
+http://iptv.re/live/george/george/719.ts
+#EXTINF:-1,FR: Comedie +
+http://iptv.re/live/george/george/3992.ts
+#EXTINF:-1,FR: Cine Polar
+http://iptv.re/live/george/george/3991.ts
+#EXTINF:-1,FR: Cine FX
+http://iptv.re/live/george/george/3990.ts
+#EXTINF:-1,FR: AB1
+http://iptv.re/live/george/george/3988.ts
+#EXTINF:-1,FR: AB Moteurs
+http://iptv.re/live/george/george/3989.ts
+#EXTINF:-1,FR: Trek
+http://iptv.re/live/george/george/4082.ts
+#EXTINF:-1,FR: TCM Cinema
+http://iptv.re/live/george/george/4091.ts
+#EXTINF:-1,FR: RTL 9
+http://iptv.re/live/george/george/1932.ts
+#EXTINF:-1,FR: NRJ Hits
+http://iptv.re/live/george/george/3993.ts
+#EXTINF:-1,FR: Nickelodeon 4Teen
+http://iptv.re/live/george/george/4084.ts
+#EXTINF:-1,M6 Music
+http://iptv.re/live/george/george/4088.ts
+#EXTINF:-1,FR: NT1 HD
+http://iptv.re/live/george/george/1936.ts
+#EXTINF:-1,FR: Science Et Vie
+http://iptv.re/live/george/george/814.ts
+#EXTINF:-1,FR: Voyage
+http://iptv.re/live/george/george/1933.ts
+#EXTINF:-1,FR: RMC
+http://iptv.re/live/george/george/2730.ts
+#EXTINF:-1,FR: TMC
+http://iptv.re/live/george/george/816.ts
+#EXTINF:-1,FR: Serie Club HD
+http://iptv.re/live/george/george/765.ts
+#EXTINF:-1,FR: GAME ONE HD
+http://iptv.re/live/george/george/1939.ts
+#EXTINF:-1,FR: EURONEWS
+http://iptv.re/live/george/george/1940.ts
+#EXTINF:-1,FR: Disney XD HD
+http://iptv.re/live/george/george/724.ts
+#EXTINF:-1,FR: Numero23
+http://iptv.re/live/george/george/1949.ts
+#EXTINF:-1,FR: L Equipe 21
+http://iptv.re/live/george/george/3710.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://iptv.re/live/george/george/3128.ts
+#EXTINF:-1,FR: Canal Play 5
+http://iptv.re/live/george/george/2404.ts
+#EXTINF:-1,FR: Canal Play 4
+http://iptv.re/live/george/george/2403.ts
+#EXTINF:-1,FR: Canal Play 3
+http://iptv.re/live/george/george/2402.ts
+#EXTINF:-1,FR: Canal Play 2
+http://iptv.re/live/george/george/2401.ts
+#EXTINF:-1,FR: Canal Play 1
+http://iptv.re/live/george/george/2400.ts
+#EXTINF:-1,FR: Téva
+http://iptv.re/live/george/george/754.ts
+#EXTINF:-1,FR: INFOSPORT FR
+http://iptv.re/live/george/george/757.ts
+#EXTINF:-1,FR: NRJ12 HD
+http://iptv.re/live/george/george/706.ts
+#EXTINF:-1,FR: Discovery HD
+http://iptv.re/live/george/george/1934.ts
+#EXTINF:-1,FR: PLANET+ HD
+http://iptv.re/live/george/george/760.ts
+#EXTINF:-1,FR: PLANETE  A+E HD
+http://iptv.re/live/george/george/3127.ts
+#EXTINF:-1,FR: PLANETE CI
+http://iptv.re/live/george/george/801.ts
+#EXTINF:-1,FR: Discovery Science HD
+http://iptv.re/live/george/george/823.ts
+#EXTINF:-1,FR: NatGeoWild HD
+http://iptv.re/live/george/george/822.ts
+#EXTINF:-1,FR: animaux HD
+http://iptv.re/live/george/george/746.ts
+#EXTINF:-1,FR: Ushuaia HD
+http://iptv.re/live/george/george/749.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://iptv.re/live/george/george/3130.ts
+#EXTINF:-1,FR: OCS GEANTS HD
+http://iptv.re/live/george/george/1937.ts
+#EXTINF:-1,FR: OCS CITY HD
+http://iptv.re/live/george/george/3129.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://iptv.re/live/george/george/1938.ts
+#EXTINF:-1,FR: Canal J HD
+http://iptv.re/live/george/george/818.ts
+#EXTINF:-1,FR: Canal+ HD
+http://iptv.re/live/george/george/743.ts
+#EXTINF:-1,FR: Canal+ Series HD
+http://iptv.re/live/george/george/740.ts
+#EXTINF:-1,FR: Canal+ Family HD
+http://iptv.re/live/george/george/741.ts
+#EXTINF:-1,FR: Canal+ Cinema HD
+http://iptv.re/live/george/george/742.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://iptv.re/live/george/george/739.ts
+#EXTINF:-1,FR: CINE PREMIER HD
+http://iptv.re/live/george/george/731.ts
+#EXTINF:-1,FR: CINE FRISSON HD
+http://iptv.re/live/george/george/732.ts
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://iptv.re/live/george/george/730.ts
+#EXTINF:-1,FR: CINE EMOTION HD
+http://iptv.re/live/george/george/734.ts
+#EXTINF:-1,FR: 13EME RUE HD
+http://iptv.re/live/george/george/748.ts
+#EXTINF:-1,FR: SYFY HD
+http://iptv.re/live/george/george/779.ts
+#EXTINF:-1,FR: BFMTV HD
+http://iptv.re/live/george/george/744.ts
+#EXTINF:-1,FR: BFM Business
+http://iptv.re/live/george/george/729.ts
+#EXTINF:-1,FR: Chasse et Peche
+http://iptv.re/live/george/george/736.ts
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://iptv.re/live/george/george/789.ts
+#EXTINF:-1,FR: Mangas
+http://iptv.re/live/george/george/819.ts
+#EXTINF:-1,FR: GULLI HD
+http://iptv.re/live/george/george/713.ts
+#EXTINF:-1,FR: PIWI  HD
+http://iptv.re/live/george/george/804.ts
+#EXTINF:-1,FR: TELETOON  +1
+http://iptv.re/live/george/george/802.ts
+#EXTINF:-1,FR: TIJI TV
+http://iptv.re/live/george/george/2790.ts
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://iptv.re/live/george/george/772.ts
+#EXTINF:-1,FR: BOOMERANG HD
+http://iptv.re/live/george/george/788.ts
+#EXTINF:-1,FR: A La Carte 1
+http://iptv.re/live/george/george/2231.ts
+#EXTINF:-1,FR: A La Carte 2
+http://iptv.re/live/george/george/2232.ts
+#EXTINF:-1,FR: A La Carte 3
+http://iptv.re/live/george/george/2233.ts
+#EXTINF:-1,FR: A La Carte 4
+http://iptv.re/live/george/george/2234.ts
+#EXTINF:-1,FR: A La Carte 5
+http://iptv.re/live/george/george/1950.ts
+#EXTINF:-1,BR: Warner Channel HD
+http://iptv.re/live/george/george/4287.ts
+#EXTINF:-1,BR: VH1 HD
+http://iptv.re/live/george/george/4258.ts
+#EXTINF:-1,BR: TV PIPOCA HD
+http://iptv.re/live/george/george/4280.ts
+#EXTINF:-1,BR: TNT HD
+http://iptv.re/live/george/george/4271.ts
+#EXTINF:-1,BR: TLC HD
+http://iptv.re/live/george/george/4263.ts
+#EXTINF:-1,BR: TC TOUCH HD
+http://iptv.re/live/george/george/4281.ts
+#EXTINF:-1,BR: TC PREMIUM HD
+http://iptv.re/live/george/george/4277.ts
+#EXTINF:-1,BR: TC FUN HD
+http://iptv.re/live/george/george/4276.ts
+#EXTINF:-1,BR: TC ACTION
+http://iptv.re/live/george/george/4279.ts
+#EXTINF:-1,BR: SONY HD
+http://iptv.re/live/george/george/4274.ts
+#EXTINF:-1,BR: PREMIERE 5 HD
+http://iptv.re/live/george/george/4268.ts
+#EXTINF:-1,BR: PREMIERE 4 HD
+http://iptv.re/live/george/george/4256.ts
+#EXTINF:-1,BR: PREMIERE 3 HD
+http://iptv.re/live/george/george/4254.ts
+#EXTINF:-1,BR: PREMIERE 1 HD
+http://iptv.re/live/george/george/4250.ts
+#EXTINF:-1,BR: PARAMOUNT HD
+http://iptv.re/live/george/george/4288.ts
+#EXTINF:-1,BR: OFF HD
+http://iptv.re/live/george/george/4267.ts
+#EXTINF:-1,BR: NICKELODEON HD
+http://iptv.re/live/george/george/4255.ts
+#EXTINF:-1,BR: NAT GEO WILD HD
+http://iptv.re/live/george/george/4285.ts
+#EXTINF:-1,BR: NAT GEO HD
+http://iptv.re/live/george/george/4253.ts
+#EXTINF:-1,BR: MULTISHOW HD
+http://iptv.re/live/george/george/4273.ts
+#EXTINF:-1,BR: MTV HD
+http://iptv.re/live/george/george/4269.ts
+#EXTINF:-1,BR: MEGA PIX HD
+http://iptv.re/live/george/george/4252.ts
+#EXTINF:-1,BR: MAX HD
+http://iptv.re/live/george/george/4259.ts
+#EXTINF:-1,BR: MAIS GLOBO SAT HD
+http://iptv.re/live/george/george/4265.ts
+#EXTINF:-1,BR: LIFE TIME HD
+http://iptv.re/live/george/george/4270.ts
+#EXTINF:-1,BR: KIDS HD
+http://iptv.re/live/george/george/4249.ts
+#EXTINF:-1,BR: HISTORY CHANNEL HD
+http://iptv.re/live/george/george/4275.ts
+#EXTINF:-1,BR: HBO Family HD
+http://iptv.re/live/george/george/4260.ts
+#EXTINF:-1,BR: HBO 2 HD
+http://iptv.re/live/george/george/4262.ts
+#EXTINF:-1,BR: H&H HD
+http://iptv.re/live/george/george/4251.ts
+#EXTINF:-1,BR: GLOBO SP HD
+http://iptv.re/live/george/george/4247.ts
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://iptv.re/live/george/george/4248.ts
+#EXTINF:-1,BR: GLOBO
+http://iptv.re/live/george/george/4266.ts
+#EXTINF:-1,BR: FOX SPORT 2 HD
+http://iptv.re/live/george/george/4284.ts
+#EXTINF:-1,BR: FOX HD
+http://iptv.re/live/george/george/4278.ts
+#EXTINF:-1,BR: ESPN BRASIL HD
+http://iptv.re/live/george/george/4282.ts
+#EXTINF:-1,BR: Disney Channel HD
+http://iptv.re/live/george/george/4283.ts
+#EXTINF:-1,BR: Discovery Channel HD
+http://iptv.re/live/george/george/4286.ts
+#EXTINF:-1,BR: COMBATE HD
+http://iptv.re/live/george/george/4246.ts
+#EXTINF:-1,BR: BAND SPORT HD
+http://iptv.re/live/george/george/4272.ts
+#EXTINF:-1,BR: AXN HD
+http://iptv.re/live/george/george/4264.ts
+#EXTINF:-1,BR: ANIMAL Planet HD
+http://iptv.re/live/george/george/4261.ts
+#EXTINF:-1,BR: A&E HD
+http://iptv.re/live/george/george/4257.ts
+#EXTINF:-1,PT: RTP 1
+http://iptv.re/live/george/george/3757.ts
+#EXTINF:-1,PT: RTP 2
+http://iptv.re/live/george/george/3758.ts
+#EXTINF:-1,PT: RTP 3
+http://iptv.re/live/george/george/3759.ts
+#EXTINF:-1,PT: Record News
+http://iptv.re/live/george/george/3769.ts
+#EXTINF:-1,PT: Odesseia
+http://iptv.re/live/george/george/3774.ts
+#EXTINF:-1,PT: MTV
+http://iptv.re/live/george/george/3764.ts
+#EXTINF:-1,PT: Motors TV
+http://iptv.re/live/george/george/3763.ts
+#EXTINF:-1,PT: Economico TV
+http://iptv.re/live/george/george/3776.ts
+#EXTINF:-1,PT: Cancanova
+http://iptv.re/live/george/george/3773.ts
+#EXTINF:-1,PT: Canal Hollyood
+http://iptv.re/live/george/george/3761.ts
+#EXTINF:-1,PT: Baby TV
+http://iptv.re/live/george/george/3775.ts
+#EXTINF:-1,PT: ARTV
+http://iptv.re/live/george/george/3765.ts
+#EXTINF:-1,PT: AMC
+http://iptv.re/live/george/george/3762.ts
+#EXTINF:-1,PT: Abola TV
+http://iptv.re/live/george/george/3777.ts
+#EXTINF:-1,PT: Tvi Ficcao
+http://iptv.re/live/george/george/3766.ts
+#EXTINF:-1,PT: TVi 24
+http://iptv.re/live/george/george/3767.ts
+#EXTINF:-1,PT: TV Record
+http://iptv.re/live/george/george/3768.ts
+#EXTINF:-1,PT: Sic Noticias
+http://iptv.re/live/george/george/3772.ts
+#EXTINF:-1,PT: Sic Kids
+http://iptv.re/live/george/george/3771.ts
+#EXTINF:-1,PT: Sic
+http://iptv.re/live/george/george/3770.ts
+#EXTINF:-1,PT: RTP Madeira
+http://iptv.re/live/george/george/3760.ts
+#EXTINF:-1,PT Sports TV1
+http://iptv.re/live/george/george/3007.ts
+#EXTINF:-1,PT Sports TV2
+http://iptv.re/live/george/george/3003.ts
+#EXTINF:-1,PT Sports TV3
+http://iptv.re/live/george/george/3004.ts
+#EXTINF:-1,PT Sports TV4
+http://iptv.re/live/george/george/3005.ts
+#EXTINF:-1,PT Sports TV5
+http://iptv.re/live/george/george/3006.ts
+#EXTINF:-1,PT - TVCINE 1 HD
+http://iptv.re/live/george/george/3056.ts
+#EXTINF:-1,PT - TVCINE 2HD
+http://iptv.re/live/george/george/3057.ts
+#EXTINF:-1,PT - TVCINE 3HD
+http://iptv.re/live/george/george/3058.ts
+#EXTINF:-1,PT - TVCINE 4 HD
+http://iptv.re/live/george/george/3059.ts
+#EXTINF:-1,PT - TV SERIES HD
+http://iptv.re/live/george/george/3068.ts
+#EXTINF:-1,PT - TLC
+http://iptv.re/live/george/george/3070.ts
+#EXTINF:-1,PT - SYFY
+http://iptv.re/live/george/george/3069.ts
+#EXTINF:-1,PT - FOX NEWS
+http://iptv.re/live/george/george/3071.ts
+#EXTINF:-1,PT - FOX MOVIES
+http://iptv.re/live/george/george/3064.ts
+#EXTINF:-1,PT - FOX LIFE
+http://iptv.re/live/george/george/3061.ts
+#EXTINF:-1,PT - FOX HD
+http://iptv.re/live/george/george/3060.ts
+#EXTINF:-1,PT - FOX CRIME
+http://iptv.re/live/george/george/3063.ts
+#EXTINF:-1,PT - FOX COMEDY
+http://iptv.re/live/george/george/3062.ts
+#EXTINF:-1,PT - AXN WHITE HD
+http://iptv.re/live/george/george/3066.ts
+#EXTINF:-1,PT - AXN HD
+http://iptv.re/live/george/george/3065.ts
+#EXTINF:-1,PT - AXN BLACK HD
+http://iptv.re/live/george/george/3067.ts
+
 
 
 
