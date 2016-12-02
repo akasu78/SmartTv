@@ -12,19 +12,42 @@ Editada a : 25 - 11 - 2016 ( esta a ser actualizada )
 #EXTBG: http://visionfour.com/images/iptv.jpg
 http://ssiptv.com:8899
 
-
+#EXTINF:0, type="stream" channelId="2645" , SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:0 type="stream" channelId="2647" , TVI HQ
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
+#EXTINF:0 type="stream" channelId="2647" , TVI
+http://195.23.102.218:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
 #EXTINF:0 type="stream" channelId="2648" , TVI 24
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
+#EXTINF:0 type="stream" channelId="2648" , TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8
+
+#EXTINF:0 type="stream" channelId="2648" , TVI 24
+http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8
+
+
 #EXTINF:0 type="stream" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2012/04/logotipoDE-150x150.jpg" , ECONOMICO TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
 
+#EXTINF:0 type="stream" channelId="2855" , Porto Canal
+http://213.13.26.11:1935/live/portocanal/jn.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/11/artv.jpg" , ARTV
+http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png" , TV LISBOA
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
+
+#EXTINF:0 type="stream" channelId="217" , EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , ???Desporto???
 http://ssiptv.com:8899
@@ -33,7 +56,11 @@ http://ssiptv.com:8899
 #EXTINF:0 type="stream" channelId="1332" , Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, type="stream" tvg-logo="http://2.bp.blogspot.com/-7SOXtxHNiNo/VNOsbjQyQoI/AAAAAAAAeOg/kIo3Znn_vnc/s1600/LIGA%2BNOS%2B2015-18.PNG" , [Liga Nos]
+http://82.200.127.58:8080/udp/239.54.6.153:1224
 
+#EXTINF:-1, type="stream" tvg-logo="http://2.bp.blogspot.com/-7SOXtxHNiNo/VNOsbjQyQoI/AAAAAAAAeOg/kIo3Znn_vnc/s1600/LIGA%2BNOS%2B2015-18.PNG" , [Liga Nos] HD
+http://82.200.127.58:8080/udp/239.54.7.153:1224
 
 
 #EXTINF:0 type="stream" tvg-logo="http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png" , "Musica"
