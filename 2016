@@ -14,7 +14,7 @@ Editada a : 2 - 12 - 2016 ( esta a ser actualizada )
 #EXTBG: http://visionfour.com/images/iptv.jpg
 http://ssiptv.com:8899
 
-#EXTINF:0, type="stream" channelId="2645" , SIC
+#EXTINF:0 type="stream" channelId="2645" , SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 type="stream" channelId="2647" , TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
@@ -58,10 +58,10 @@ http://ssiptv.com:8899
 #EXTINF:0 type="stream" channelId="1332" , Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, type="stream" tvg-logo="http://2.bp.blogspot.com/-7SOXtxHNiNo/VNOsbjQyQoI/AAAAAAAAeOg/kIo3Znn_vnc/s1600/LIGA%2BNOS%2B2015-18.PNG" , [Liga Nos]
+#EXTINF:0 type="stream" tvg-logo="http://2.bp.blogspot.com/-7SOXtxHNiNo/VNOsbjQyQoI/AAAAAAAAeOg/kIo3Znn_vnc/s1600/LIGA%2BNOS%2B2015-18.PNG" , [Liga Nos]
 http://82.200.127.58:8080/udp/239.54.6.153:1224
 
-#EXTINF:-1, type="stream" tvg-logo="http://2.bp.blogspot.com/-7SOXtxHNiNo/VNOsbjQyQoI/AAAAAAAAeOg/kIo3Znn_vnc/s1600/LIGA%2BNOS%2B2015-18.PNG" , [Liga Nos] HD
+#EXTINF:0 type="stream" tvg-logo="http://2.bp.blogspot.com/-7SOXtxHNiNo/VNOsbjQyQoI/AAAAAAAAeOg/kIo3Znn_vnc/s1600/LIGA%2BNOS%2B2015-18.PNG" , [Liga Nos] HD
 http://82.200.127.58:8080/udp/239.54.7.153:1224
 
 
