@@ -136,6 +136,8 @@ http://ssiptv.com:8899
 http://ssiptv.com:8899
 
 
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="http://static.wixstatic.com/media/7f6050_b7ca4a543bc2927dbd0c12ad862e5317.png_256",VENUS
+http://186.3.234.131:8000/play/a011
 
 #EXTINF:-1 tvg-logo="http://farm4.static.flickr.com/3318/3449626483_b198f40d62.jpg" group-title="Adulto", PornoTv
 http://78.46.64.13:1935/tv3/myStream/playlist.m3u8
