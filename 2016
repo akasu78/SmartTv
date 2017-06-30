@@ -5,7 +5,7 @@
 Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se gostar Adquira o serviço pelo Operador, Meo, Nos ou Vodafone entre outros.
 Todos os Links foram encontrados na internet.
 
-Editada a :8 -5-2017
+Editada a :30-6-2017
 
 
 
@@ -14,97 +14,425 @@ Editada a :8 -5-2017
 #EXTBG: http://visionfour.com/images/iptv.jpg
 http://ssiptv.com:8899
 
-#EXTM3U
-#EXTINF:-1,Canal Panda
-http://85.7.107.8:8011/play/a01x
-#EXTINF:-1,Playboy TV
-http://85.7.107.8:8011/play/a035
-#EXTINF:-1,RTP 2
-http://85.7.107.8:8011/play/a01v
-#EXTINF:-1,Globo
-http://85.7.107.8:8011/play/a014
 #EXTINF:-1,RTP 1
-http://85.7.107.8:8011/play/a01w
-#EXTINF:-1,NBA TV
-http://85.7.107.8:8011/play/a02t
-#EXTINF:-1,RTP 3
-http://85.7.107.8:8011/play/a01u
-#EXTINF:-1,Sport TV 3
-http://85.7.107.8:8011/play/a010
-#EXTINF:-1,CMTV
-http://85.7.107.8:8011/play/a02s
-#EXTINF:-1,MCS Lifestyle
-http://85.7.107.8:8011/play/a02n
-#EXTINF:-1,Cacavision
-http://85.7.107.8:8011/play/a02m
-#EXTINF:-1,Sport TV 2 HD
-http://85.7.107.8:8011/play/a00c
-#EXTINF:-1,Discovery Channel
-http://85.7.107.8:8011/play/a013
-#EXTINF:-1,Sport TV 2
-http://85.7.107.8:8011/play/a00z
-#EXTINF:-1,Kombat Sport
-http://85.7.107.8:8011/play/a02o
-#EXTINF:-1,Globo Premium
-http://85.7.107.8:8011/play/a036
-#EXTINF:-1,SIC Noticias
-http://85.7.107.8:8011/play/a022
-#EXTINF:-1,MTV Portugal
-http://85.7.107.8:8011/play/a018
-#EXTINF:-1,Hollywood
-http://85.7.107.8:8011/play/a019
-#EXTINF:-1,BTV 1
-http://85.7.107.8:8011/play/a01y
-#EXTINF:-1,Canal Panda
-http://85.7.107.8:8011/play/a02w
-#EXTINF:-1,Sport TV 3 HD
-http://85.7.107.8:8011/play/a00d
-#EXTINF:-1,Historia
-http://85.7.107.8:8011/play/a01a
-#EXTINF:-1,SIC Radical
-http://85.7.107.8:8011/play/a02y
-#EXTINF:-1,TVI
-http://85.7.107.8:8011/play/a01s
-#EXTINF:-1,FOX HD
-http://85.7.107.8:8011/play/a00g
-#EXTINF:-1,Mickey Mouse e os seus Amigos
-http://85.7.107.8:8011/play/a02u
-#EXTINF:-1,TVI 24
-http://85.7.107.8:8011/play/a017
-#EXTINF:-1,Sport TV 4
-http://85.7.107.8:8011/play/a011
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.m3u8
+#EXTINF:-1,RTP 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1402.m3u8
 #EXTINF:-1,SIC
-http://85.7.107.8:8011/play/a01t
-#EXTINF:-1,Sport TV 1
-http://85.7.107.8:8011/play/a016
-#EXTINF:-1,Porto Canal
-http://85.7.107.8:8011/play/a02z
-#EXTINF:-1,MCM POP
-http://85.7.107.8:8011/play/a02q
-#EXTINF:-1,Nat Geo Wild
-http://85.7.107.8:8011/play/a02x
-#EXTINF:-1,Eurosport 2
-http://85.7.107.8:8011/play/a034
-#EXTINF:-1,Eurosport
-http://85.7.107.8:8011/play/a015
-#EXTINF:-1,Odisseia
-http://85.7.107.8:8011/play/a012
-#EXTINF:-1,RTP Madeira
-http://85.7.107.8:8011/play/a01q
-#EXTINF:-1,National Geographic HD
-http://85.7.107.8:8011/play/a00e
-#EXTINF:-1,TV Record
-http://85.7.107.8:8011/play/a01b
-#EXTINF:-1,RTP Acores
-http://85.7.107.8:8011/play/a01r
-#EXTINF:-1,Cartoon Network
-http://85.7.107.8:8011/play/a030
-#EXTINF:-1,FOX Comedy
-http://85.7.107.8:8011/play/a031
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/880.m3u8
+#EXTINF:-1,SIC Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.m3u8
+#EXTINF:-1,TVI
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/891.m3u8
+#EXTINF:-1,TVI Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.m3u8
+#EXTINF:-1,RTP 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/882.m3u8
+#EXTINF:-1,RTP 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1454.m3u8
+#EXTINF:-1,RTP 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/886.m3u8
+#EXTINF:-1,RTP 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1444.m3u8
+#EXTINF:-1,TVI 24
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/877.m3u8
+#EXTINF:-1,TVI 24 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1443.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/883.m3u8
+#EXTINF:-1,SIC NOTICIAS Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1437.m3u8
+#EXTINF:-1,CMTV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/887.m3u8
+#EXTINF:-1,BTV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/885.m3u8
+#EXTINF:-1,BTV Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1442.m3u8
+#EXTINF:-1,BTV HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1065.m3u8
+#EXTINF:-1,SPORT TV 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.m3u8
+#EXTINF:-1,Sport TV 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1396.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.m3u8
+#EXTINF:-1,SPORT TV 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/879.m3u8
+#EXTINF:-1,SPORT TV 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1439.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.m3u8
+#EXTINF:-1,SPORT TV 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.m3u8
+#EXTINF:-1,SPORT TV 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1441.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.m3u8
+#EXTINF:-1,SPORT TV 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.m3u8
+#EXTINF:-1,SPORT TV 5
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1523.m3u8
+#EXTINF:-1,SPORT TV + HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1520.m3u8
+#EXTINF:-1,PORTO CANAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/888.m3u8
+#EXTINF:-1,SPORTING TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.m3u8
 #EXTINF:-1,AXN HD
-http://85.7.107.8:8011/play/a00f
-#EXTINF:-1,Sport TV 1 HD
-http://85.7.107.8:8011/play/a00b
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/857.m3u8
+#EXTINF:-1,AXN Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1456.m3u8
+#EXTINF:-1,AXN WHITE
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1129.m3u8
+#EXTINF:-1,AMC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1096.m3u8
+#EXTINF:-1,AMC Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1453.m3u8
+#EXTINF:-1,AMC HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/866.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.m3u8
+#EXTINF:-1,HOLLYWOOD Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1438.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1083.m3u8
+#EXTINF:-1,FOX HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1081.m3u8
+#EXTINF:-1,FOX MOVIES
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/863.m3u8
+#EXTINF:-1,FOX MOVIES Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1445.m3u8
+#EXTINF:-1,TV CINE 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1084.m3u8
+#EXTINF:-1,TV CINE 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1085.m3u8
+#EXTINF:-1,TV CINE 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1452.m3u8
+#EXTINF:-1,TV CINE 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1086.m3u8
+#EXTINF:-1,TV CINE 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1451.m3u8
+#EXTINF:-1,TV CINE 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1087.m3u8
+#EXTINF:-1,TV CINE 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1088.m3u8
+#EXTINF:-1,TV CINE 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1303.m3u8
+#EXTINF:-1,TV CINE 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1089.m3u8
+#EXTINF:-1,TV CINE 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1304.m3u8
+#EXTINF:-1,TV SERIES HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1526.m3u8
+#EXTINF:-1,CINEMUNDO
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1527.m3u8
+#EXTINF:-1,SYFY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1090.m3u8
+#EXTINF:-1,SYFY HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1289.m3u8
+#EXTINF:-1,CINEMUNDO HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1100.m3u8
+#EXTINF:-1,MOV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1075.m3u8
+#EXTINF:-1,TVI FICCÃƒO
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.m3u8
+#EXTINF:-1,TVI REALITY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/865.m3u8
+#EXTINF:-1,SIC MULHER
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/864.m3u8
+#EXTINF:-1,SIC RADICAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1092.m3u8
+#EXTINF:-1,SIC CARAS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1524.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1093.m3u8
+#EXTINF:-1,TV GLOBO PREMIUM
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/878.m3u8
+#EXTINF:-1,FRANCE 24
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/862.m3u8
+#EXTINF:-1,CNN
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/856.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1528.m3u8
+#EXTINF:-1,MOTORVISION HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1521.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1290.m3u8
+#EXTINF:-1,A BOLA TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1094.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/889.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1077.m3u8
+#EXTINF:-1,ODISSEIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/868.m3u8
+#EXTINF:-1,ODISSEIA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1440.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/870.m3u8
+#EXTINF:-1,CANAL HISTORIA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1457.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/869.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1131.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.m3u8
+#EXTINF:-1,CAÃ‡AVISION
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1098.m3u8
+#EXTINF:-1,CAÃ‡A E PESCA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1097.m3u8
+#EXTINF:-1,TOROS TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1519.m3u8
+#EXTINF:-1,TRACE URBAN
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1518.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1522.m3u8
+#EXTINF:-1,FOX CRIME
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1080.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1079.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/881.m3u8
+#EXTINF:-1,CBS REALITY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1525.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1082.m3u8
+#EXTINF:-1,TLC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1068.m3u8
+#EXTINF:-1,CANAL Q
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1101.m3u8
+#EXTINF:-1,A&amp;ampampE
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1095.m3u8
+#EXTINF:-1,VH1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1062.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/871.m3u8
+#EXTINF:-1,MTV DANCE
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1076.m3u8
+#EXTINF:-1,SIC K
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1091.m3u8
+#EXTINF:-1,CANAL PANDA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/884.m3u8
+#EXTINF:-1,CANAL PANDA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1436.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1291.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/860.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1078.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1102.m3u8
+#EXTINF:-1,JIM JAM
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1300.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1139.m3u8
+#EXTINF:-1,RTP 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.ts
+#EXTINF:-1,RTP 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1402.ts
+#EXTINF:-1,SIC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/880.ts
+#EXTINF:-1,SIC Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.ts
+#EXTINF:-1,TVI
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/891.ts
+#EXTINF:-1,TVI Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts
+#EXTINF:-1,RTP 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/882.ts
+#EXTINF:-1,RTP 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1454.ts
+#EXTINF:-1,RTP 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/886.ts
+#EXTINF:-1,RTP 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1444.ts
+#EXTINF:-1,TVI 24
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/877.ts
+#EXTINF:-1,TVI 24 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1443.ts
+#EXTINF:-1,SIC NOTICIAS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/883.ts
+#EXTINF:-1,SIC NOTICIAS Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1437.ts
+#EXTINF:-1,CMTV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/887.ts
+#EXTINF:-1,BTV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/885.ts
+#EXTINF:-1,BTV Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1442.ts
+#EXTINF:-1,BTV HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1065.ts
+#EXTINF:-1,SPORT TV 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.ts
+#EXTINF:-1,Sport TV 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1396.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.ts
+#EXTINF:-1,SPORT TV 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/879.ts
+#EXTINF:-1,SPORT TV 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1439.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.ts
+#EXTINF:-1,SPORT TV 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.ts
+#EXTINF:-1,SPORT TV 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1441.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.ts
+#EXTINF:-1,SPORT TV 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.ts
+#EXTINF:-1,SPORT TV 5
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1523.ts
+#EXTINF:-1,SPORT TV   HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1520.ts
+#EXTINF:-1,PORTO CANAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/888.ts
+#EXTINF:-1,SPORTING TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.ts
+#EXTINF:-1,AXN HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/857.ts
+#EXTINF:-1,AXN Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1456.ts
+#EXTINF:-1,AXN WHITE
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1129.ts
+#EXTINF:-1,AMC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1096.ts
+#EXTINF:-1,AMC Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1453.ts
+#EXTINF:-1,AMC HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/866.ts
+#EXTINF:-1,HOLLYWOOD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.ts
+#EXTINF:-1,HOLLYWOOD Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1438.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1083.ts
+#EXTINF:-1,FOX HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1081.ts
+#EXTINF:-1,FOX MOVIES
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/863.ts
+#EXTINF:-1,FOX MOVIES Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1445.ts
+#EXTINF:-1,TV CINE 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1084.ts
+#EXTINF:-1,TV CINE 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1085.ts
+#EXTINF:-1,TV CINE 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1452.ts
+#EXTINF:-1,TV CINE 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1086.ts
+#EXTINF:-1,TV CINE 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1451.ts
+#EXTINF:-1,TV CINE 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1087.ts
+#EXTINF:-1,TV CINE 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1088.ts
+#EXTINF:-1,TV CINE 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1303.ts
+#EXTINF:-1,TV CINE 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1089.ts
+#EXTINF:-1,TV CINE 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1304.ts
+#EXTINF:-1,TV SERIES HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1526.ts
+#EXTINF:-1,CINEMUNDO
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1527.ts
+#EXTINF:-1,SYFY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1090.ts
+#EXTINF:-1,SYFY HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1289.ts
+#EXTINF:-1,CINEMUNDO HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1100.ts
+#EXTINF:-1,MOV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1075.ts
+#EXTINF:-1,TVI FICCÂ
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.ts
+#EXTINF:-1,TVI REALITY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/865.ts
+#EXTINF:-1,SIC MULHER
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/864.ts
+#EXTINF:-1,SIC RADICAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1092.ts
+#EXTINF:-1,SIC CARAS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1524.ts
+#EXTINF:-1,RTP MEMORIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1093.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/878.ts
+#EXTINF:-1,FRANCE 24
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/862.ts
+#EXTINF:-1,CNN
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/856.ts
+#EXTINF:-1,KOMBAT SPORT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1528.ts
+#EXTINF:-1,MOTORVISION HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1521.ts
+#EXTINF:-1,EUROSPORT 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1290.ts
+#EXTINF:-1,A BOLA TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1094.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/889.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1077.ts
+#EXTINF:-1,ODISSEIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/868.ts
+#EXTINF:-1,ODISSEIA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1440.ts
+#EXTINF:-1,CANAL HISTORIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/870.ts
+#EXTINF:-1,CANAL HISTORIA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1457.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/869.ts
+#EXTINF:-1,DISCOVERY CHANNEL Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1131.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.ts
+#EXTINF:-1,CAÆVISION
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1098.ts
+#EXTINF:-1,CAÆ E PESCA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1097.ts
+#EXTINF:-1,TOROS TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1519.ts
+#EXTINF:-1,TRACE URBAN
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1518.ts
+#EXTINF:-1,AXN BLACK HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1522.ts
+#EXTINF:-1,FOX CRIME
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1080.ts
+#EXTINF:-1,FOX COMEDY HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1079.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/881.ts
+#EXTINF:-1,CBS REALITY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1525.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1082.ts
+#EXTINF:-1,TLC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1068.ts
+#EXTINF:-1,CANAL Q
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1101.ts
+
 
 
 
